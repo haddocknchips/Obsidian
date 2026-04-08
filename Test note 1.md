@@ -1,0 +1,1 @@
+How do I link this to the [[Welcome]] note? Ah, that looks easy enough.
