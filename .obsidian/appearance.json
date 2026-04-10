@@ -3,5 +3,7 @@
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "IBM Plex Mono",
   "theme": "obsidian",
-  "baseFontSize": 13
+  "baseFontSize": 13,
+  "showViewHeader": true,
+  "showRibbon": true
 }

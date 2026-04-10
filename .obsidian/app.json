@@ -3,5 +3,10 @@
   "spellcheck": false,
   "vimMode": true,
   "autoPairBrackets": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": false
 }

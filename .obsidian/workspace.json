@@ -6,61 +6,14 @@
       {
         "id": "e915998b0c6c1539",
         "type": "tabs",
-        "dimension": 49.36548223350254,
         "children": [
           {
-            "id": "75ee81d24580aff5",
+            "id": "f3d0f20870431c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "4d260c43f78dce8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "aa9b1f368cd9a64e",
-        "type": "tabs",
-        "dimension": 50.63451776649746,
-        "children": [
-          {
-            "id": "9416206578dffe3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -75,10 +28,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "create a link"
+              "title": "README"
+            }
+          },
+          {
+            "id": "74934e257e5b6ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shionogi GARDP Orchid CHAI partnership PR"
+            }
+          },
+          {
+            "id": "76536bb1acf6f849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What are we solving?"
+            }
+          },
+          {
+            "id": "a73ccfd615c55c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/MAH - Market Authorisation Holder.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MAH - Market Authorisation Holder"
+            }
+          },
+          {
+            "id": "c6235c0f33110853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "License holder.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "License holder"
+            }
+          },
+          {
+            "id": "126c07f4dee67529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributor.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Distributor"
+            }
+          },
+          {
+            "id": "67841be72582f622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What are we solving?"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +196,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,17 +249,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test note 1.md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test note 1"
+              "title": "Backlinks for What are we solving?"
             }
           },
           {
@@ -226,8 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,13 +337,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d260c43f78dce8f",
+  "active": "67841be72582f622",
   "lastOpenFiles": [
-    "create a link.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+    "Distributor.md",
+    "License holder.md",
+    "Resources/MAH - Market Authorisation Holder.md",
+    "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions",
+    "Projects/Inception report",
+    "Projects/Clarify tiered pricing",
     "README.md",
-    "Test note 1.md",
+    "Index.md",
     "Welcome.md",
-    "Untitled.md",
-    "Untitled"
+    "Projects/GARDP IF project/GARDP staff inputs, calls, interviews",
+    "Test note 1.md",
+    "create a link.md",
+    "Projects/GARDP IF project",
+    "Archive",
+    "Resources",
+    "Areas",
+    "Projects"
   ]
 }
