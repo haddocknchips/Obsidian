@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3d0f20870431c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "74934e257e5b6ddb",
             "type": "leaf",
             "state": {
@@ -133,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributor.md",
+                "file": "Resources/Yann meeting 2026-04-09.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Distributor"
+              "title": "Yann meeting 2026-04-09"
             }
           },
           {
-            "id": "67841be72582f622",
+            "id": "05aa09e2e1eb722c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -172,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What are we solving?"
+              "title": "Potential solutions"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What are we solving?"
+              "title": "Backlinks for Potential solutions"
             }
           },
           {
@@ -337,18 +313,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "67841be72582f622",
+  "active": "05aa09e2e1eb722c",
   "lastOpenFiles": [
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+    "GARDP MedAccess discussions.md",
+    "Pooled procurement.md",
+    "Resources/Clara meeting 2026-04-09.md",
+    "Resources/Yann meeting 2026-04-09.md",
     "Distributor.md",
-    "License holder.md",
-    "Resources/MAH - Market Authorisation Holder.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
+    "README.md",
+    "Resources/MAH - Market Authorisation Holder.md",
+    "License holder.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions",
     "Projects/Inception report",
     "Projects/Clarify tiered pricing",
-    "README.md",
     "Index.md",
     "Welcome.md",
     "Projects/GARDP IF project/GARDP staff inputs, calls, interviews",
