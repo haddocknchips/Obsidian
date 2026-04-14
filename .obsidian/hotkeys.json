@@ -17,15 +17,6 @@
       "key": "ArrowRight"
     }
   ],
-  "backlink:open-backlinks": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -40,6 +31,15 @@
         "Mod"
       ],
       "key": "]"
+    }
+  ],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

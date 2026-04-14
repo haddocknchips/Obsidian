@@ -85,8 +85,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Call with Victoria (MedAccess)"
+            }
+          },
+          {
+            "id": "e05d0d201dcaeb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Areas/Jeff Rowland/Catch ups.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -303,8 +326,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "05aa09e2e1eb722c",
+  "active": "e05d0d201dcaeb4a",
   "lastOpenFiles": [
+    "Areas/Consultations/Call with Victoria (MedAccess).md",
+    "Areas/Consultations/Financial counterparts.md",
+    "Areas/Jeff Rowland/Catch ups.md",
     "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
     "Resources/MAH - Market Authorisation Holder.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
@@ -317,7 +343,6 @@
     "2026-04-13.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "Projects/Financial sustainability/Ideas to explore.md",
-    "Areas/Consultations/Financial counterparts.md",
     "Projects/Financial sustainability",
     "Areas/Consultations/GARDP.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
@@ -326,7 +351,6 @@
     "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
     "Test.md",
-    "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Jeff Rowland",
     "Projects/Financial partner and counterparties/FAB.md",
     "Areas/Consultations",
