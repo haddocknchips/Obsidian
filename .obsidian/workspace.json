@@ -211,8 +211,33 @@
               "icon": "lucide-file",
               "title": "Prep - Call with Victoria (MedAccess)"
             }
+          },
+          {
+            "id": "e91517cd388afe40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synctest 202604141720.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Synctest 202604141720"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Consultations/Prep - Call with Victoria (MedAccess).md",
+                "file": "Synctest 202604141720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +320,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prep - Call with Victoria (MedAccess)"
+              "title": "Backlinks for Synctest 202604141720"
             }
           },
           {
@@ -384,11 +409,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cbb24ba0ba87ed95",
+  "active": "e91517cd388afe40",
   "lastOpenFiles": [
-    "Areas/Consultations/Financial counterparts.md",
-    "Areas/Consultations/Prep - Call with Victoria (MedAccess).md",
     "Untitled.md",
+    "Synctest 202604141720.md",
+    "Areas/Consultations/Prep - Call with Victoria (MedAccess).md",
+    "Areas/Consultations/Financial counterparts.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
@@ -419,7 +445,6 @@
     "Resources/Meeting notes/Clara meeting 2026-04-09.md",
     "Distributor.md",
     "README.md",
-    "License holder.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions",
     "Projects/Inception report"
   ]
