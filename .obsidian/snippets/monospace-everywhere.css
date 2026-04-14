@@ -1,0 +1,25 @@
+/* Force monospace for all editing text */
+/* SF Mono option
+:root {
+  --font-text: "SF Mono", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-interface: var(--font-text);
+}
+*/
+
+:root {
+  --font-text: "JetBrains Mono", Menlo, Monaco, Consolas, monospace;
+  --font-interface: var(--font-text);
+}
+
+/* Ensure live editor + source mode are covered */
+.markdown-source-view,
+.cm-editor,
+.cm-content {
+  font-family: var(--font-text) !important;
+}
+
+/* below for JetBrains Mono for slightly more breathing room */
+.cm-content {
+  line height: 1.55;
+  letter spacing: 0.01em;
+}

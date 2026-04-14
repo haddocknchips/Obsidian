@@ -45,4 +45,8 @@
 
 - Tiered pricing? 
 	- Yes. ***Q for Y:*** How developed is tiered pricing structure? How visible is it to countries? Any references or policy documents on this? 
-  
+
+### Follow-up questions for Yann
+
+- See above
+- How transparant is Orchid with its COGs ie, for the proposed [[Cefi concept note - GARDP, MedAccess, Sida#Appendix 1 (Activities & Outputs)|MedAccess project with Sida]]?

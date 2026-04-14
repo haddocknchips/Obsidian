@@ -1,0 +1,1 @@
+- RDEL / CDEL concept for UK (and maybe Germany, Nordics?); see M365CP analysis

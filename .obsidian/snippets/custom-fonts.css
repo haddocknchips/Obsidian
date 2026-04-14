@@ -1,0 +1,10 @@
+/* Font for editing mode */
+.markdown-source-view {
+    font-family: 'SF Mono', sans-serif !important;
+}
+
+/* Font for reading mode */
+.markdown-preview-view {
+    font-family: 'SF Pro', serif !important;
+}
+

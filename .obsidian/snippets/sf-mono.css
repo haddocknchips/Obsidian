@@ -1,0 +1,4 @@
+/* Force SF Mono in editor */
+:root {
+  --font-monospace: "SF Mono", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}

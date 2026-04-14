@@ -80,60 +80,60 @@
             }
           },
           {
-            "id": "c6235c0f33110853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "License holder.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "License holder"
-            }
-          },
-          {
-            "id": "126c07f4dee67529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Yann meeting 2026-04-09.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Yann meeting 2026-04-09"
-            }
-          },
-          {
             "id": "05aa09e2e1eb722c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+                "file": "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cefi concept note - GARDP, MedAccess, Sida"
+            }
+          },
+          {
+            "id": "87638ea2d7fbc75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debiopharm.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Debiopharm"
+            }
+          },
+          {
+            "id": "b0d0d61cd986675f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Consultations/Think tanks, thought leaders, conveners.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Potential solutions"
+              "title": "Think tanks, thought leaders, conveners"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+                "file": "Debiopharm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potential solutions"
+              "title": "Backlinks for Debiopharm"
             }
           },
           {
@@ -300,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,18 +314,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "05aa09e2e1eb722c",
+  "active": "87638ea2d7fbc75a",
   "lastOpenFiles": [
+    "Areas/Consultations/Think tanks, thought leaders, conveners.md",
+    "Key learnings from Zoli experience.md",
+    "Debiopharm.md",
+    "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
+    "2026-04-13.md",
+    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+    "Projects/Financial sustainability/Ideas to explore.md",
+    "Areas/Consultations/Financial counterparts.md",
+    "Projects/Financial sustainability",
+    "Areas/Consultations/GARDP.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+    "Projects/Financial partner and counterparties/EIB.md",
+    "Resources/Meeting notes",
+    "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+    "Resources/MAH - Market Authorisation Holder.md",
+    "Test.md",
+    "Areas/Jeff Rowland/Catch ups.md",
+    "Areas/Jeff Rowland",
+    "Projects/Financial partner and counterparties/FAB.md",
+    "Areas/Consultations",
+    "Projects/Financial partner and counterparties",
     "GARDP MedAccess discussions.md",
     "Pooled procurement.md",
-    "Resources/Clara meeting 2026-04-09.md",
-    "Resources/Yann meeting 2026-04-09.md",
+    "Resources/Meeting notes/Clara meeting 2026-04-09.md",
     "Distributor.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
-    "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
     "README.md",
-    "Resources/MAH - Market Authorisation Holder.md",
     "License holder.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions",
     "Projects/Inception report",
@@ -333,11 +351,6 @@
     "Welcome.md",
     "Projects/GARDP IF project/GARDP staff inputs, calls, interviews",
     "Test note 1.md",
-    "create a link.md",
-    "Projects/GARDP IF project",
-    "Archive",
-    "Resources",
-    "Areas",
-    "Projects"
+    "Projects/GARDP IF project"
   ]
 }

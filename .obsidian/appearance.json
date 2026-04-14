@@ -1,9 +1,12 @@
 {
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono,IBM Plex Mono",
-  "theme": "obsidian",
-  "baseFontSize": 13,
+  "textFontFamily": "SF Mono,IBM Plex Mono,SF Pro Display,JetBrains Mono,SF Pro,Inter",
+  "monospaceFontFamily": "SF Mono,JetBrains Mono,IBM Plex Mono",
+  "theme": "system",
+  "baseFontSize": 15,
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "custom-fonts"
+  ]
 }
