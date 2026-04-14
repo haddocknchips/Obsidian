@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "87638ea2d7fbc75a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "b0d0d61cd986675f",
             "type": "leaf",
             "state": {
@@ -152,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -311,7 +288,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,13 +303,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d83c9acb7ff6324",
+  "active": "05aa09e2e1eb722c",
   "lastOpenFiles": [
+    "Resources/MAH - Market Authorisation Holder.md",
+    "Areas/Consultations/Think tanks, thought leaders, conveners.md",
+    "Welcome.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "Debiopharm.md",
-    "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Key learnings from Zoli experience.md",
     "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
     "2026-04-13.md",
@@ -345,7 +325,6 @@
     "Resources/Meeting notes",
     "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
-    "Resources/MAH - Market Authorisation Holder.md",
     "Test.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Jeff Rowland",
@@ -360,8 +339,6 @@
     "License holder.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions",
     "Projects/Inception report",
-    "Projects/Clarify tiered pricing",
-    "Index.md",
-    "Welcome.md"
+    "Index.md"
   ]
 }
