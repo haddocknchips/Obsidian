@@ -17,14 +17,6 @@
       "key": "ArrowRight"
     }
   ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "["
-    }
-  ],
   "app:go-forward": [
     {
       "modifiers": [
@@ -40,6 +32,38 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }

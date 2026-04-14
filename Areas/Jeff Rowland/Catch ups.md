@@ -2,9 +2,9 @@
 
 - Progress update:
 	- Materials shared by Yann and Clara
-		- SPC membership?
-		- Clara's comment about shifting MedAccess approach, partly because of capital constraints it seems => also got feedback from Victoria that they do need to raise capital to be able to do more (including with GARDP it seems) [[Victoria meeting prep]][[Victoria meeting prep]]
-		- Where are they seeing AMR fitting into their work? In the evolving global health landscape
+		- SPC membership? 
+		- Clara's comment about shifting MedAccess approach, partly because of capital constraints it seems => also got feedback from Victoria that they do need to raise capital to be able to do more (including with GARDP it seems) 
+		- Where are they seeing AMR fitting into their work? In the evolving global health landscape [[Prep - Call with Victoria (MedAccess)]]
 	- Picking up inception report (a little bit behind schedule)
 	- Check on overall timeline
 	- Follow-up other consultations (Carol?); I've also followed up with Carmen and Rahul but so far no response
