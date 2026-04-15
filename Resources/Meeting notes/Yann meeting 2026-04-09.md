@@ -46,6 +46,7 @@
 - Tiered pricing? 
 	- Yes. ***Q for Y:*** How developed is tiered pricing structure? How visible is it to countries? Any references or policy documents on this? 
 
+### 
 ### Follow-up questions for Yann
 
 - See above
