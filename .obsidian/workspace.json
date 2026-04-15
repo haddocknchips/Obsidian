@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "05aa09e2e1eb722c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Call with Victoria (MedAccess)"
-            }
-          },
-          {
             "id": "098abed06d2fd714",
             "type": "leaf",
             "state": {
@@ -204,21 +180,14 @@
               "icon": "lucide-file",
               "title": "Call with Victoria (MedAccess)"
             }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "40cf4390fe0bcb51",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e82b84078345bb48",
+            "id": "b868526f529fed16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Resources/Meeting notes/Clara meeting 2026-04-09.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -233,10 +202,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Clara meeting 2026-04-09"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -293,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -309,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +290,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Call with Victoria (MedAccess)"
             }
           },
           {
@@ -394,7 +365,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,11 +380,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e82b84078345bb48",
+  "active": "cbb24ba0ba87ed95",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "Resources/Meeting notes/Clara meeting 2026-04-09.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Synctest 202604141720.md",
@@ -443,7 +416,6 @@
     "Projects/Financial partner and counterparties",
     "GARDP MedAccess discussions.md",
     "Pooled procurement.md",
-    "Resources/Meeting notes/Clara meeting 2026-04-09.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions",
     "Projects/Inception report"
   ]

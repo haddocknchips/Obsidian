@@ -14,7 +14,7 @@
 - Also looks after cross-cutting projects such as standardisation
 - Pulled into MedAccess
 
-- At Sida: combined work with MedAccess on cefi volume guarantee
+- At Sida: combined work with [[Call with Victoria (MedAccess)|MedAccess]] on cefi volume guarantee
 - Carmen and Pierre(?) also leading their own conversation with MedAccess
 - Volume guarantee concerns [see notes/ comments from Victoria, to follow]; due to lack of capital(?)
 - Carmen + [[Yann meeting 2026-04-09|Yann]] in discussions also
@@ -24,8 +24,7 @@
 - Change of scope at MedAccess
 	- Timeline/ phasing might be a concern
 - MedAccess also in discussions with SECURE
-- Asif and Emily with MedAccess are Clara's counterpart
-- Sida discussions have not been as fluid/ strained; were keen to collaborate with MedAccess because of previous discussions (at yet unfunded); change of scope now includes zoli
+- Asif and Emily with MedAccess are Clara's counterpartķ- Sida discussions have not been as fluid/ strained; were keen to collaborate with MedAccess because of previous discussions (at yet unfunded); change of scope now includes zoli
 
 - Deliverables:
 	- Strategy counsultation to drive/ bring new funding; how to deepen; especially Sweden (Nordics), France, Monaco + some that are not yet giving money

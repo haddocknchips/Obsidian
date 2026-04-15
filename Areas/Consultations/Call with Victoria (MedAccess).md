@@ -2,10 +2,42 @@
 
 ### TPs
 
+- Procurement project with Gates on Malaria and HIV
+- More work on emerging procurement agents
+- Head of inf diseases
+	- AMR slightly off plate for VG but may be brought back in if things pick up (keen and has the background)
+	- Help drive credit strategy
+	- Investments into TGF
+	- 1/3 inf diseases
+	- Debt strategy work
+	- Bread and butter; tangentially involved 
+	- Peter Beyer at WHO => work with Edge
+- Catch up
+	- Where based?
+	- Role within MedAccess; do the conversations with GARDP fall directly under her?
+- MedAccess funding/ capital
+	- $170m from BII returns covers OPEX
+	- To date haven't had a call on capital
+	- Debt offering
+	- Dynamic with BII as sole shareholder
+	- Capital preservation is important
+	- Fundraising person working with GARDP: Marta, background raising money
+	- Debt: unlikely to be able write tickets below $10m; maybe $50m debt book in total. Will go to the board in June => may be a good fit for GARDP
+		- PS offered TCX intro 
+- BII
+	- Healthcare has never been a big area for them
+	- Hence healthcare debt shifting to MedAccess (BII retains equity)
 - Strategy and views on GARDP business
-	- Capital raising
-	- Jeff's query on where they are seeing AMR fitting into their work
+	- Jeff's query on where they are seeing AMR fitting into their work => no direct pot of money
+	- Asif Ali => key focal point 
+	- Capital raising => what does that mean? How do you deploy capital eg, objective is preservation?
+	- How do you look at capital? Like a financial institution where you have potential obligations sitting on top of it? Gets renewed through new BII injections?
+	- How do you collaborate with BII? Is MedAccess the market shaping arm of BII? Do you do joint deals together?
+- How can I be helpful?
+- How do you see the conversations on Cefiderocol and Zoliflodacin? How are they the same or different? 
+	- From Victoria's email: "we are indeed collaborating on cefiderocol and would also potentially would like to work on zoli although we really need to raise some funding for our AMR work" 
 - Sida discussions?
 - Anyone else I should talk to for this consult?
-- Who's coming on 29 April
+- Who's coming on 29 April?
+	- Victoria might not be able  
 - Plans for London in early May 
