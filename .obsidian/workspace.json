@@ -85,7 +85,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test copy doc.md",
+                "file": "Projects/Inception report/Content to consider including in report.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Content to consider including in report"
+            }
+          },
+          {
+            "id": "495972e57c990309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
+            }
+          },
+          {
+            "id": "9b9022d1699a2961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0a8dc6048a2e8742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Meeting notes/Yann meeting 2026-04-09.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +172,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test copy doc"
+              "title": "Yann meeting 2026-04-09"
+            }
+          },
+          {
+            "id": "301f14091800effb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential solutions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -161,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -177,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test copy doc.md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +284,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test copy doc"
+              "title": "Backlinks for Potential solutions"
             }
           },
           {
@@ -278,20 +375,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "859183a3ab7e70ed",
+  "active": "301f14091800effb",
   "lastOpenFiles": [
-    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
-    "Welcome.md",
-    "Test copy doc.md",
+    "2025.09 - Strategy on Zoli (2026_2032).pptx",
+    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+    "Key learnings from Zoli experience.md",
     "Untitled 1.md",
     "Untitled.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+    "Projects/Inception report/Content to consider including in report.md",
+    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
+    "Debiopharm.md",
+    "Test copy doc.md",
+    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
+    "Welcome.md",
     "Test note 1.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Areas/Consultations/May London trip.md",
-    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "conflict-files-obsidian-git.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
@@ -302,19 +404,14 @@
     "Synctest 202604141720.md",
     "Areas/Consultations/Financial counterparts.md",
     "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
-    "Resources/MAH - Market Authorisation Holder.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "Debiopharm.md",
-    "Key learnings from Zoli experience.md",
-    "2026-04-13.md",
     "Projects/Financial sustainability",
     "Resources/Meeting notes",
     "Areas/Jeff Rowland",
     "Areas/Consultations",
     "Projects/Financial partner and counterparties",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions",
-    "Projects/Inception report"
+    "Projects/Cefiderocol and Zoliflodacin IF solutions"
   ]
 }
