@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Call with Victoria (MedAccess)"
             }
+          },
+          {
+            "id": "859183a3ab7e70ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test copy doc.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test copy doc"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "file": "Test copy doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What are we solving?"
+              "title": "Backlinks for Test copy doc"
             }
           },
           {
@@ -254,10 +278,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "41c800f6ea2c6d39",
+  "active": "859183a3ab7e70ed",
   "lastOpenFiles": [
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
+    "Welcome.md",
+    "Test copy doc.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Test note 1.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Areas/Consultations/May London trip.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
@@ -267,26 +298,19 @@
     "Areas/Consultations/April Geneva trip.md",
     "Resources/Antimicrobial resistance M365CP.md",
     "Resources/Meeting notes/Clara meeting 2026-04-09.md",
-    "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
     "Synctest 202604141720.md",
     "Areas/Consultations/Financial counterparts.md",
     "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
     "Resources/MAH - Market Authorisation Holder.md",
-    "Welcome.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
     "Debiopharm.md",
     "Key learnings from Zoli experience.md",
     "2026-04-13.md",
-    "Projects/Financial sustainability/Ideas to explore.md",
     "Projects/Financial sustainability",
-    "Areas/Consultations/GARDP.md",
-    "Projects/Financial partner and counterparties/EIB.md",
     "Resources/Meeting notes",
-    "Resources/Shionogi GARDP Orchid CHAI partnership PR.md",
     "Areas/Jeff Rowland",
     "Areas/Consultations",
     "Projects/Financial partner and counterparties",
