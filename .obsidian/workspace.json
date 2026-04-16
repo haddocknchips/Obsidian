@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Call with Victoria (MedAccess)"
+              "title": "Potential solutions"
             }
           }
         ],
@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Call with Victoria (MedAccess)"
+              "title": "Backlinks for Potential solutions"
             }
           },
           {
@@ -256,10 +255,10 @@
   },
   "active": "3151dd95bbaf74a4",
   "lastOpenFiles": [
+    "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Areas/Consultations/May London trip.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "conflict-files-obsidian-git.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
