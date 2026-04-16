@@ -15,6 +15,7 @@
 	- Someone _can_ be the MAH
 	- Someone _wants_ to be the MAH
 	- And align MAH's incentives with public health, not volume-based sales
+- As manufacturing is Africa is a ways away [[Lauren note]], need to match plan to this phasing or to enable acceleration
 
 ## ToDos
 

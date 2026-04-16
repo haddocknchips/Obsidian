@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "41c800f6ea2c6d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What are we solving?"
+            }
+          },
+          {
             "id": "80b76c0af8080558",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Call with Victoria (MedAccess)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Questions"
+              "title": "Backlinks for What are we solving?"
             }
           },
           {
@@ -229,14 +254,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "84824efcd3cbb73d",
+  "active": "41c800f6ea2c6d39",
   "lastOpenFiles": [
+    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Areas/Consultations/May London trip.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "conflict-files-obsidian-git.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Consultations/April Geneva trip.md",
