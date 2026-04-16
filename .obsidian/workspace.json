@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Yann meeting 2026-04-09"
+              "title": "Call with Victoria (MedAccess)"
             }
           }
         ],
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+                "file": "Areas/Consultations/Call with Victoria (MedAccess).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yann meeting 2026-04-09"
+              "title": "Backlinks for Call with Victoria (MedAccess)"
             }
           },
           {
@@ -255,14 +256,14 @@
   },
   "active": "3151dd95bbaf74a4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Areas/Consultations/May London trip.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+    "conflict-files-obsidian-git.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Consultations/April Geneva trip.md",
-    "Areas/Consultations/May London trip.md",
     "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
     "Resources/Antimicrobial resistance M365CP.md",
     "Resources/Meeting notes/Clara meeting 2026-04-09.md",
