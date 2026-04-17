@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84824efcd3cbb73d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
-            }
-          },
-          {
             "id": "41c800f6ea2c6d39",
             "type": "leaf",
             "state": {
@@ -176,6 +152,54 @@
             }
           },
           {
+            "id": "df4890465986e85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential solutions"
+            }
+          },
+          {
+            "id": "0cbf40253c4a4919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Terminology references.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terminology references"
+            }
+          },
+          {
             "id": "c804d41770b5c195",
             "type": "leaf",
             "state": {
@@ -272,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -345,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +379,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for For consideration - SPV -- FUND‑BASED PULL HYBRID MENU"
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -446,13 +470,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a8dc6048a2e8742",
+  "active": "495972e57c990309",
   "lastOpenFiles": [
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "evidence generation.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "rahul notes.md",
+    "Resources/Terminology references.md",
+    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
     "SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "~$20200331_GARDP_Summary deck.pptx",
@@ -467,11 +496,9 @@
     "Users/paolo/Library/CloudStorage",
     "Users/paolo/Library",
     "Users/paolo",
-    "Users",
     "Key learnings from Zoli experience.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
     "Debiopharm.md",
@@ -480,9 +507,6 @@
     "Test note 1.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Areas/Consultations/May London trip.md",
-    "conflict-files-obsidian-git.md",
-    "Areas/Jeff Rowland/Catch ups.md",
-    "Areas/Consultations/Think tanks, thought leaders, conveners.md",
-    "Areas/Consultations/April Geneva trip.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

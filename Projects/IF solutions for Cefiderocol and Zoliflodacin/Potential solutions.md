@@ -3,10 +3,13 @@
 - Yann: GARDP was "open to investing" but tax issue. _What is the issue?_ Is this an area that could be looked at again eg, thorugh an SPV or ring-fenced balance sheet, perhaps managed like a fund? 
 - Yann: is an Advance Purchase Commitment or some other pull mechanism viable? 
 - PS: What if a better solution is ***certainty of revenue*** instead of a [[Cefi concept note - GARDP, MedAccess, Sida|volume guarantee]]?
+- APA as preferred procurement mechanism for commercial batches _to derisk manufacturing of validation batches_ ![[APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx]] 
+	- Who is responsible for execution?
+- COGs transaparency and accuracy: is there a widely-accepted third party that can conduct this? [[rahul notes]]
 
 ### Zoliflodacin
 
-- Current financing ideas on the table ![[2025.09 - Strategy on Zoli (2026_2032).pptx]]:
+- Current financing ideas on the table: ![[2025.09 - Strategy on Zoli (2026_2032).pptx]]
 	- 1. Funding mechanism to APSL
 	- 2. Funding mechanism to DrL to use DrL as MAH subcontractor
 	- 3. Loan to DrL
