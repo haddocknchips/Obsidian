@@ -5,6 +5,7 @@
 - BII
 - IFC
 - [[EIB]]
+- Proparco
 
 ### Invesment and commercial banks
 
