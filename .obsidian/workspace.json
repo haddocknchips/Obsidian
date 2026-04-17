@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -157,31 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Meeting notes/Yann meeting 2026-04-09.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Yann meeting 2026-04-09"
-            }
-          },
-          {
-            "id": "301f14091800effb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+                "file": "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,11 +172,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Potential solutions"
+              "title": "For consideration - SPV -- FUND‑BASED PULL HYBRID MENU"
+            }
+          },
+          {
+            "id": "c804d41770b5c195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPV-fundbased pull hybrid.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SPV-fundbased pull hybrid"
+            }
+          },
+          {
+            "id": "269addda6f65b0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sweden’s Reimbursement - Revenue Guarantee Model"
+            }
+          },
+          {
+            "id": "acd3f02e8a767221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UK Antibiotic Subscription Model"
+            }
+          },
+          {
+            "id": "a2188009e2b5541b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PASTEUR Act (US)"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -274,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+                "file": "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +355,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potential solutions"
+              "title": "Backlinks for For consideration - SPV -- FUND‑BASED PULL HYBRID MENU"
             }
           },
           {
@@ -375,43 +446,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "301f14091800effb",
+  "active": "0a8dc6048a2e8742",
   "lastOpenFiles": [
-    "2025.09 - Strategy on Zoli (2026_2032).pptx",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
+    "SPV-fundbased pull hybrid.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
+    "~$20200331_GARDP_Summary deck.pptx",
+    "20200331_GARDP_Summary deck.pptx",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09/20200331_GARDP_Summary deck.pptx.md",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09.md",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Potential solutions.md",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP",
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC",
+    "Users/paolo/Library/CloudStorage",
+    "Users/paolo/Library",
+    "Users/paolo",
+    "Users",
     "Key learnings from Zoli experience.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/Questions.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
     "Debiopharm.md",
     "Test copy doc.md",
-    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Welcome.md",
     "Test note 1.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions/What are we solving?.md",
     "Areas/Consultations/May London trip.md",
     "conflict-files-obsidian-git.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
-    "Areas/Consultations/April Geneva trip.md",
-    "Resources/Antimicrobial resistance M365CP.md",
-    "Resources/Meeting notes/Clara meeting 2026-04-09.md",
-    "Untitled 2.md",
-    "Synctest 202604141720.md",
-    "Areas/Consultations/Financial counterparts.md",
-    "Resources/Cefi concept note - GARDP, MedAccess, Sida.md",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Projects/Financial sustainability",
-    "Resources/Meeting notes",
-    "Areas/Jeff Rowland",
-    "Areas/Consultations",
-    "Projects/Financial partner and counterparties",
-    "Projects/Cefiderocol and Zoliflodacin IF solutions"
+    "Areas/Consultations/April Geneva trip.md"
   ]
 }
