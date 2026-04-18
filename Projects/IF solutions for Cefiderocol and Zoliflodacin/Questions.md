@@ -13,4 +13,5 @@ What's the role of the [AMR Action Fund](https://www.amractionfund.com) in relat
 
 - What activities underly evidence-generation? (Is this is Yann or a Regina question)? And why significant for SECURE ($25m/ year)? Evidence generation studies -- probably access
 - SECURE: for Yann and Robert: what aspects of SECURE's ambition were obtained and what is it's current business and financial model? 
+	- Note: currently regional implementation (per Yann, Robert, Jeff)
 - 

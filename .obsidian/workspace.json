@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
-                "mode": "source",
+                "file": "Resources/SECURE vison vs current state.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "SECURE vison vs current state"
             }
           },
           {
@@ -369,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
+                "file": "Resources/SECURE vison vs current state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +379,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Questions"
+              "title": "Backlinks for SECURE vison vs current state"
             }
           },
           {
@@ -472,8 +472,9 @@
   },
   "active": "495972e57c990309",
   "lastOpenFiles": [
-    "Areas/Consultations/Financial counterparts.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
+    "Resources/SECURE vison vs current state.md",
+    "Areas/Consultations/Financial counterparts.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "evidence generation.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
@@ -506,7 +507,6 @@
     "Test copy doc.md",
     "Welcome.md",
     "Test note 1.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "Areas/Consultations/May London trip.md"
+    "Areas/Consultations/Call with Victoria (MedAccess).md"
   ]
 }
