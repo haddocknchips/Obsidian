@@ -1,3 +1,8 @@
+### Content
+
+- Build a heirerchy/ matrix criteria to evaluate potential solutions against cefiderocol and zoliflodacin
+	- Do I want to cross-reference this against current and prospective donors and their objectives/ investment criteria?
+
 ### Parking to validate or disprove based on discussions
 
 - Synthesis of materials shared by Yann:
@@ -10,3 +15,4 @@
 - This is a **structural shift** relative to GARDP circa 2017–2020.
 - References:
 	- April 2026 strategy consultation deck
+- Plug-in [[BD summary doc]] 

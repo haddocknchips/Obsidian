@@ -8,10 +8,22 @@ What's the role of the [AMR Action Fund](https://www.amractionfund.com) in relat
 - What organisational changes are required in order to implement the commercialisation plan?
 - March MedAccess update on Zoli? Why is there a large gap between the Thai introduction and Wave 2 countries? What are the reasons why submission is made to the Thai FDA, followed by South Africa later this year, but not to others? 
 - Licensing policy: Should GARDP consider a very small/ token licensing fee for LMICs/ LICs eg, ~0.5-1%, to integrate that into their procurement systems or does that have limited value? => Already reflected in some materials as for discusion; what is the current prevailing view of MT?
+- What are the GMPR and SAC? Are they governance bodies within GARDP? 
 
 ### Msc
 
 - What activities underly evidence-generation? (Is this is Yann or a Regina question)? And why significant for SECURE ($25m/ year)? Evidence generation studies -- probably access
 - SECURE: for Yann and Robert: what aspects of SECURE's ambition were obtained and what is it's current business and financial model? 
 	- Note: currently regional implementation (per Yann, Robert, Jeff)
-- 
+
+### Financial strategy
+
+***The most important strategic test question on whether an SPV is sensible***
+
+Before going any further, there is **one test** GARDP leadership must be able to answer clearly:
+
+> **Is GARDP willing to acknowledge—explicitly—that some access interventions are capital allocation decisions, not just programmatic ones?**
+
+If the answer is **no**, an SPV will fail culturally even if it works legally.
+
+If the answer is **yes**, then an SPV is not only reasonable—it is almost inevitable if GARDP wants to scale without permanent donor dependence.

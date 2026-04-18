@@ -17,7 +17,8 @@
 
 ### Strategy / financial sustainability
 
-- APA SPV, potentially alongside AMR action fund
+- APA SPV, or hybrid fund SPV, potentially alongside AMR action fund
+- Shift from all downside to downside + upside => one-way to two-way financial model or risk-return symmetry without profit maximisation
 
 ### IF products and mechanisms (cross matrix with cefi and zoli)
 

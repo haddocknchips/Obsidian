@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,11 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PASTEUR Act (US)"
+              "title": "Questions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -328,7 +328,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GMPR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -369,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/SECURE vison vs current state.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +379,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SECURE vison vs current state"
+              "title": "Backlinks for Questions"
             }
           },
           {
@@ -470,43 +470,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "495972e57c990309",
+  "active": "a2188009e2b5541b",
   "lastOpenFiles": [
+    "Key learnings from Zoli experience.md",
+    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Projects/Inception report/Content to consider including in report.md",
+    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
     "Resources/SECURE vison vs current state.md",
     "Areas/Consultations/Financial counterparts.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "evidence generation.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "rahul notes.md",
     "Resources/Terminology references.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
     "SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09/20200331_GARDP_Summary deck.pptx.md",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09.md",
-    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC",
     "Users/paolo/Library/CloudStorage",
     "Users/paolo/Library",
     "Users/paolo",
-    "Key learnings from Zoli experience.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Projects/Inception report/Content to consider including in report.md",
-    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
     "Debiopharm.md",
     "Test copy doc.md",
     "Welcome.md",
-    "Test note 1.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md"
+    "Test note 1.md"
   ]
 }
