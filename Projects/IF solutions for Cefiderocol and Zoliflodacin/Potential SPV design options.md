@@ -1,4 +1,5 @@
 See [[Questions#Financial strategy]]
+Compare and potentially consolidate with [[For consideration - SPV -- FUND‑BASED PULL HYBRID MENU]]
 
 ### Option 1: **Revolving Access Capital Facility**
 
