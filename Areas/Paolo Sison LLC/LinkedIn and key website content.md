@@ -15,7 +15,7 @@ Principal | sison.io | Development & Impact Finance | Blended & Innovative Fundi
 
 > [Start year] – Present
 
-### Sumary _and_ sison.io website
+### Summary _and_ sison.io website
 
 I am an independent advisor with over 20 years of experience in **development, impact, and corporate finance**, spanning industry, investment banking, and international development.
 
@@ -24,6 +24,16 @@ I advise **international development organizations, governments, non-profits, a
 I bring deep experience across **debt, equity, and hybrid instruments**, combining **private-sector capital markets and structuring expertise** with development finance practice. My work includes designing and managing **ground‑breaking financing structures** with sovereign governments, DFIs, multilateral development banks, and investment and commercial banks across **Africa, the Middle East, Europe, North America, and Asia**.
 
 _I work with organizations seeking to structure, launch, or scale innovative financing solutions in complex development contexts._
+
+#### For pasting on LinkedIn website below
+
+I am an independent advisor with over 20 years of experience in development, impact, and corporate finance, spanning industry, investment banking, and international development.
+
+I advise international development organizations, governments, non-profits, and development finance institutions on the design and execution of blended and innovative financing solutions that mobilize capital and support delivery at scale.
+
+I bring deep experience across debt, equity, and hybrid instruments, combining private-sector capital markets and structuring expertise with development finance practice. My work includes designing and managing ground‑breaking financing structures with sovereign governments, DFIs, multilateral development banks, and investment and commercial banks across Africa, the Middle East, Europe, North America, and Asia.
+
+I work with organizations seeking to structure, launch, or scale innovative financing solutions in complex development contexts.
 
 ### Summary - parking lot => usage TBD
 
