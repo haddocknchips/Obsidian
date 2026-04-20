@@ -1,3 +1,6 @@
+ToDo: separate in different notes
+Use vimwiki for raw minutes first
+
 ### 14 April 2026
 
 - Progress update:
@@ -21,3 +24,8 @@
 	- Jeff to send holding email for a few weeks 
 Admin:
 Escalate travel; can also coordinate with someone else eg, Clara if easier
+
+### 21 April 2026
+
+- Progress update:
+	- Meeting with Regina Osih and market-shaping
