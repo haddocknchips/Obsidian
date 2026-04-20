@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41c800f6ea2c6d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What are we solving?"
-            }
-          },
-          {
             "id": "80b76c0af8080558",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Yann meeting 2026-04-09"
+            }
+          },
+          {
+            "id": "9961f5c803a815f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Milken Institute AMR Financial Innovation Lab 2021"
             }
           },
           {
@@ -248,30 +248,6 @@
             }
           },
           {
-            "id": "acd3f02e8a767221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "UK Antibiotic Subscription Model"
-            }
-          },
-          {
             "id": "a2188009e2b5541b",
             "type": "leaf",
             "state": {
@@ -294,14 +270,31 @@
               "icon": "lucide-file",
               "title": "Catch ups"
             }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "56695bb6ed7e112b",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "957a5b917966af7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Milken Institute AMR Financial Innovation Lab 2021"
+            }
+          },
           {
             "id": "70fa158b1174652d",
             "type": "leaf",
@@ -326,7 +319,8 @@
               "title": "Follow-up questions for Yann"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -383,7 +377,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -399,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follow-up questions for Yann.md",
+                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,7 +404,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Follow-up questions for Yann"
+              "title": "Backlinks for Milken Institute AMR Financial Innovation Lab 2021"
             }
           },
           {
@@ -500,14 +495,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "70fa158b1174652d",
+  "active": "957a5b917966af7b",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Areas/Jeff Rowland/Catch ups.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "Follow-up questions for Yann.md",
+    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+    "FIL-AMR v3.22.22 1.pdf",
+    "FIL-AMR Executive Summary v3.21.22 2.pdf",
+    "FIL-AMR Executive Summary v3.21.22 1.pdf",
+    "FIL-AMR v3.22.22.pdf",
+    "FIL-AMR Executive Summary v3.21.22.pdf",
     "Resources/Meeting notes/Yann meeting 2026-04-09.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "Untitled 2.md",
     "Resources/Meeting notes/Rahul meeting 16 April 2026.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "Areas/Jeff Rowland/Catch ups.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Areas/Paolo Sison LLC",
@@ -515,7 +518,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Key learnings from Zoli experience.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
@@ -527,16 +529,8 @@
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09/20200331_GARDP_Summary deck.pptx.md",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09.md",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC",
-    "Users/paolo/Library/CloudStorage",
-    "Users/paolo/Library"
+    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09"
   ]
 }
