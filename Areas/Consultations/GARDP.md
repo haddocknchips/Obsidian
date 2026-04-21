@@ -5,5 +5,5 @@
 
 ### Notes from meetings
 
-- [[Yann meeting 2026-04-09]]
-- [[Clara meeting 2026-04-09]]
+- [[Yann intro meeting 2026-04-09]]
+- [[Clara intro meeting 2026-04-09]]

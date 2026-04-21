@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80b76c0af8080558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Meeting notes/Yann meeting 2026-04-09.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Yann meeting 2026-04-09"
-            }
-          },
-          {
             "id": "9961f5c803a815f6",
             "type": "leaf",
             "state": {
@@ -272,30 +248,6 @@
             }
           },
           {
-            "id": "957a5b917966af7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Potential solutions"
-            }
-          },
-          {
             "id": "70fa158b1174652d",
             "type": "leaf",
             "state": {
@@ -320,7 +272,37 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
+      },
+      {
+        "id": "1a7f6c154bef9073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b76c0af8080558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Yann intro meeting 2026-04-09"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,7 +359,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -393,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+                "file": "Follow-up questions for Yann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +386,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potential solutions"
+              "title": "Backlinks for Follow-up questions for Yann"
             }
           },
           {
@@ -494,22 +477,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "957a5b917966af7b",
+  "active": "70fa158b1174652d",
   "lastOpenFiles": [
+    "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
+    "Follow-up questions for Yann.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Resources/Meeting notes/Lauren intro call - 7 Apr 2026.md",
+    "Resources/Meeting notes/Regina intro meeting 20260420.md",
+    "Resources/Meeting notes/Clara intro meeting 2026-04-09.md",
+    "Resources/5x5 Progress Report - Jan 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
     "Areas/Consultations/May London trip.md",
     "Areas/Consultations/April Geneva trip.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
-    "Follow-up questions for Yann.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
     "FIL-AMR v3.22.22.pdf",
     "FIL-AMR Executive Summary v3.21.22.pdf",
-    "Resources/Meeting notes/Yann meeting 2026-04-09.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "Untitled 2.md",
     "Resources/Meeting notes/Rahul meeting 16 April 2026.md",
@@ -522,12 +511,6 @@
     "Key learnings from Zoli experience.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
     "Projects/Inception report/Content to consider including in report.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
-    "Resources/SECURE vison vs current state.md",
-    "Areas/Consultations/Financial counterparts.md",
-    "evidence generation.md",
-    "rahul notes.md",
-    "Resources/Terminology references.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",

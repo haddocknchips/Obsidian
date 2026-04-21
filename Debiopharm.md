@@ -16,4 +16,4 @@
 		- GARDP to secure manufacturing & commercialization rights in GARDP territories, mirroring the zoliflodacin model, including at least one SRA (and potentially more depending on the structure of the agreement)
 		- Ensure contractual registration obligations to prevent market gaps, with a fallback clause for GARDP to take over if the partner fails to file.
 		- Maintain flexibility to renegotiate priority countries based on evolving public health needs. 
-	- Slide 13: [[Yann meeting 2026-04-09#Additional questions|Confirm with Yann]] whether GARDP expected investments will be from 2027/28 ie, Phase 2 if project proceeds, therefore, long-term patient capital required [[Ideas to explore|(eg, RDEL idea?)]]
+	- Slide 13: [[Yann intro meeting 2026-04-09#Additional questions|Confirm with Yann]] whether GARDP expected investments will be from 2027/28 ie, Phase 2 if project proceeds, therefore, long-term patient capital required [[Ideas to explore|(eg, RDEL idea?)]]

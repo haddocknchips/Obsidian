@@ -2,7 +2,7 @@ What's the role of the [AMR Action Fund](https://www.amractionfund.com) in relat
 
 ### Yann
 
-- [[Yann meeting 2026-04-09]]
+- [[Yann intro meeting 2026-04-09]]
 - AMR Fund and potential partnership with GARDP [[see AMR Action Plan doc]]
 - What would be a good way to get up to speed on GARDP access rights? Is there a boilerplate legal agreement or executed example you can share, and/ or are there distinct differerences across your products?
 - What organisational changes are required in order to implement the commercialisation plan?

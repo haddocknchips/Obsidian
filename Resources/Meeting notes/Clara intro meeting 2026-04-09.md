@@ -17,7 +17,7 @@
 - At Sida: combined work with [[Call with Victoria (MedAccess)|MedAccess]] on cefi volume guarantee
 - Carmen and Pierre(?) also leading their own conversation with MedAccess
 - Volume guarantee concerns [see notes/ comments from Victoria, to follow]; due to lack of capital(?)
-- Carmen + [[Yann meeting 2026-04-09|Yann]] in discussions also
+- Carmen + [[Yann intro meeting 2026-04-09|Yann]] in discussions also
 - Mara at MedAccess: maybe Gates or Wellcome have asked about [[Pooled procurement]]
 - Sida looking to potentially fund scoping and fesibility (Cf. briefing documents)
 
