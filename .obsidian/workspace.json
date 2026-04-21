@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+                "file": "Areas/Consultations/MedAccess May London meeting objectives.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Milken Institute AMR Financial Innovation Lab 2021"
+              "title": "MedAccess May London meeting objectives"
             }
           },
           {
@@ -377,8 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -394,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+                "file": "Areas/Consultations/MedAccess May London meeting objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +403,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Milken Institute AMR Financial Innovation Lab 2021"
+              "title": "Backlinks for MedAccess May London meeting objectives"
             }
           },
           {
@@ -497,10 +496,14 @@
   },
   "active": "957a5b917966af7b",
   "lastOpenFiles": [
+    "Areas/Consultations/May London trip.md",
+    "Areas/Consultations/April Geneva trip.md",
+    "Areas/Consultations/MedAccess May London meeting objectives.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "Areas/Jeff Rowland/Catch ups.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "Follow-up questions for Yann.md",
-    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
@@ -518,7 +521,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Key learnings from Zoli experience.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
     "Resources/SECURE vison vs current state.md",
@@ -527,8 +529,6 @@
     "rahul notes.md",
     "Resources/Terminology references.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
-    "SPV-fundbased pull hybrid.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
     "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09"

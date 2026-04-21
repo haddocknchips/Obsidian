@@ -1,3 +1,8 @@
+### Overall
+
+- Financial toolkit plus capabilities and partners that GARDP can deploy depeding on programme and need
+- Will be initially shaped by Cefi and Zoli
+
 ### Cefiderocol
 
 - Yann: GARDP was "open to investing" but tax issue. _What is the issue?_ Is this an area that could be looked at again eg, thorugh an SPV or ring-fenced balance sheet, perhaps managed like a fund? 
