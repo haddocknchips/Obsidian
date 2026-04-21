@@ -2,6 +2,10 @@
 
 - Financial toolkit plus capabilities and partners that GARDP can deploy depeding on programme and need
 - Will be initially shaped by Cefi and Zoli
+- Are volume guarantees/ APAs the best solution or is it more effient to look into a revenue + volume hybrid subscription model instead?
+	- How do you determine the optimal procuremnt/ goods-linked revenue model? 	
+	- How do you generate revenues from low usage because of better stewardship, better health outcomes, etc?
+- Basis for portfolio approach?
 
 ### Cefiderocol
 
