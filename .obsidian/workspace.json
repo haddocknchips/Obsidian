@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Royalties for MT discussion - May 2026.md",
+                "file": "Resources/Cefiderocol COGS.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Royalties for MT discussion - May 2026"
+              "title": "Cefiderocol COGS"
             }
           },
           {
@@ -377,8 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -394,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Royalties for MT discussion - May 2026.md",
+                "file": "Resources/Cefiderocol COGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +403,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Royalties for MT discussion - May 2026"
+              "title": "Backlinks for Cefiderocol COGS"
             }
           },
           {
@@ -497,8 +496,9 @@
   },
   "active": "1db98aa9e1aad5d0",
   "lastOpenFiles": [
-    "Resources/5x5 Progress Report - Jan 2026.md",
     "Resources/Royalties for MT discussion - May 2026.md",
+    "Resources/Cefiderocol COGS.md",
+    "Resources/5x5 Progress Report - Jan 2026.md",
     "Follow-up questions for Yann.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
@@ -528,7 +528,6 @@
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Key learnings from Zoli experience.md",
-    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
