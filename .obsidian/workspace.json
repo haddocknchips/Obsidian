@@ -270,21 +270,14 @@
               "icon": "lucide-file",
               "title": "Follow-up questions for Yann"
             }
-          }
-        ],
-        "currentTab": 10
-      },
-      {
-        "id": "1a7f6c154bef9073",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "80b76c0af8080558",
+            "id": "1db98aa9e1aad5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
+                "file": "Resources/Royalties for MT discussion - May 2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -299,10 +292,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Yann intro meeting 2026-04-09"
+              "title": "Royalties for MT discussion - May 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -376,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follow-up questions for Yann.md",
+                "file": "Resources/Royalties for MT discussion - May 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +380,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Follow-up questions for Yann"
+              "title": "Backlinks for Royalties for MT discussion - May 2026"
             }
           },
           {
@@ -477,10 +471,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "70fa158b1174652d",
+  "active": "1db98aa9e1aad5d0",
   "lastOpenFiles": [
-    "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Follow-up questions for Yann.md",
+    "Resources/Royalties for MT discussion - May 2026.md",
+    "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Resources/Meeting notes/Lauren intro call - 7 Apr 2026.md",
@@ -510,7 +505,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "Key learnings from Zoli experience.md",
     "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies.md",
-    "Projects/Inception report/Content to consider including in report.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
