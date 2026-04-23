@@ -272,6 +272,30 @@
             }
           },
           {
+            "id": "5972b9d10e4585c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GARDP-MedAccess concept note for Sida v3.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GARDP-MedAccess concept note for Sida v3"
+            }
+          },
+          {
             "id": "57417ac426afaa5a",
             "type": "leaf",
             "state": {
@@ -296,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -471,12 +495,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe05acbdafe077dd",
+  "active": "5972b9d10e4585c7",
   "lastOpenFiles": [
+    "Resources/GARDP 2027-31 strategy.md",
+    "GARDP-MedAccess concept note for Sida v3.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Access thoughts and parmeters.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
-    "Resources/GARDP 2027-31 strategy.md",
     "Resources/Cefiderocol COGS.md",
     "Follow-up questions for Yann.md",
     "Resources/Royalties for MT discussion - May 2026.md",
@@ -503,7 +528,6 @@
     "Resources/Meeting notes/Rahul meeting 16 April 2026.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Areas/Paolo Sison LLC",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
