@@ -1,0 +1,5 @@
+- Price reduction
+- Sustainable external funding sources and revnue model
+- Regulatory
+- Stewardship: defining the 'how' the product is used
+- Evidence generation

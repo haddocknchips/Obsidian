@@ -224,30 +224,6 @@
             }
           },
           {
-            "id": "70fa158b1174652d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/GARDP 2027-31 strategy.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GARDP 2027-31 strategy"
-            }
-          },
-          {
             "id": "1db98aa9e1aad5d0",
             "type": "leaf",
             "state": {
@@ -269,6 +245,30 @@
               },
               "icon": "lucide-file",
               "title": "Potential solutions"
+            }
+          },
+          {
+            "id": "fe05acbdafe077dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/GARDP 2027-31 strategy.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GARDP 2027-31 strategy"
             }
           },
           {
@@ -296,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -471,12 +471,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "70fa158b1174652d",
+  "active": "fe05acbdafe077dd",
   "lastOpenFiles": [
-    "Resources/Cefiderocol COGS.md",
-    "Resources/GARDP 2027-31 strategy.md",
-    "Follow-up questions for Yann.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Resources/Access thoughts and parmeters.md",
+    "Projects/GARDP IF project/Solutions analysis and outcomes.md",
+    "Resources/GARDP 2027-31 strategy.md",
+    "Resources/Cefiderocol COGS.md",
+    "Follow-up questions for Yann.md",
     "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
@@ -503,8 +505,6 @@
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Areas/Paolo Sison LLC",
-    "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
