@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Follow-up questions for Yann.md",
+                "file": "Resources/GARDP 2027-31 strategy.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Follow-up questions for Yann"
+              "title": "GARDP 2027-31 strategy"
             }
           },
           {
@@ -296,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -353,7 +353,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -369,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+                "file": "Resources/GARDP 2027-31 strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +380,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potential solutions"
+              "title": "Backlinks for GARDP 2027-31 strategy"
             }
           },
           {
@@ -470,19 +471,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1db98aa9e1aad5d0",
+  "active": "70fa158b1174652d",
   "lastOpenFiles": [
     "Resources/Cefiderocol COGS.md",
+    "Resources/GARDP 2027-31 strategy.md",
+    "Follow-up questions for Yann.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
-    "Follow-up questions for Yann.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Resources/Meeting notes/Lauren intro call - 7 Apr 2026.md",
     "Resources/Meeting notes/Regina intro meeting 20260420.md",
     "Resources/Meeting notes/Clara intro meeting 2026-04-09.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
     "Areas/Consultations/May London trip.md",
     "Areas/Consultations/April Geneva trip.md",
@@ -503,7 +505,6 @@
     "Areas/Paolo Sison LLC",
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Questions.md",
-    "Key learnings from Zoli experience.md",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
     "20200331_GARDP_Summary deck.pptx",
