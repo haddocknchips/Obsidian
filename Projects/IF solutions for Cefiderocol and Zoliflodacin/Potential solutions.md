@@ -6,6 +6,7 @@
 	- How do you determine the optimal procuremnt/ goods-linked revenue model? 	
 	- How do you generate revenues from low usage because of better stewardship, better health outcomes, etc?
 - Basis for portfolio approach?
+- Financial modelling clarity, level of detail and standardisation (Cf. Cefiderocol COGS)
 
 ### Cefiderocol
 

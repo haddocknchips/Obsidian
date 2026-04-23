@@ -128,30 +128,6 @@
             }
           },
           {
-            "id": "df4890465986e85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Potential solutions"
-            }
-          },
-          {
             "id": "0cbf40253c4a4919",
             "type": "leaf",
             "state": {
@@ -277,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Cefiderocol COGS.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cefiderocol COGS"
+              "title": "Potential solutions"
             }
           },
           {
@@ -320,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -393,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Cefiderocol COGS.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +379,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cefiderocol COGS"
+              "title": "Backlinks for Potential solutions"
             }
           },
           {
@@ -496,8 +472,8 @@
   },
   "active": "1db98aa9e1aad5d0",
   "lastOpenFiles": [
-    "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/Cefiderocol COGS.md",
+    "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
     "Follow-up questions for Yann.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
