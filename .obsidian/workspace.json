@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GARDP-MedAccess concept note for Sida v3.md",
+                "file": "Areas/Consultations/April Geneva trip.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GARDP-MedAccess concept note for Sida v3"
+              "title": "April Geneva trip"
             }
           },
           {
@@ -377,8 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -497,8 +496,8 @@
   },
   "active": "5972b9d10e4585c7",
   "lastOpenFiles": [
-    "Resources/GARDP 2027-31 strategy.md",
     "GARDP-MedAccess concept note for Sida v3.md",
+    "Resources/GARDP 2027-31 strategy.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Access thoughts and parmeters.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",

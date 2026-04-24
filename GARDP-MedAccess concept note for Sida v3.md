@@ -1,1 +1,2 @@
-- 
+- See comments in deck
+- Compare comments across all versions 

@@ -2,9 +2,9 @@
 
 ### Others
 
-- Tanguy
-- David?
+- Tanguy y
+- David n
 - Daniel?
 - Laura?
-- Tim
+- Tim n 
 - Raphael?
