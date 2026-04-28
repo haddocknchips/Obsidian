@@ -296,6 +296,30 @@
             }
           },
           {
+            "id": "4048bba1e5921ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Cefiderocol COGS + questions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cefiderocol COGS + questions"
+            }
+          },
+          {
             "id": "57417ac426afaa5a",
             "type": "leaf",
             "state": {
@@ -320,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -377,7 +401,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -494,8 +519,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5972b9d10e4585c7",
+  "active": "4048bba1e5921ee0",
   "lastOpenFiles": [
+    "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Areas/Consultations/GARDP.md",
@@ -506,8 +532,7 @@
     "Resources/GARDP 2027-31 strategy.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Access thoughts and parmeters.md",
-    "Projects/GARDP IF project/Solutions analysis and outcomes.md",
-    "Resources/Cefiderocol COGS.md",
+    "Resources/Cefiderocol COGS + questions.md",
     "Follow-up questions for Yann.md",
     "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
