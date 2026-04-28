@@ -320,6 +320,30 @@
             }
           },
           {
+            "id": "84b6aed6df4c4f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rene.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rene"
+            }
+          },
+          {
             "id": "57417ac426afaa5a",
             "type": "leaf",
             "state": {
@@ -344,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -519,8 +543,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4048bba1e5921ee0",
+  "active": "84b6aed6df4c4f4e",
   "lastOpenFiles": [
+    "Resources/Cefiderocol COGS + questions.md",
+    "Rene.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
@@ -532,7 +558,6 @@
     "Resources/GARDP 2027-31 strategy.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Access thoughts and parmeters.md",
-    "Resources/Cefiderocol COGS + questions.md",
     "Follow-up questions for Yann.md",
     "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
@@ -546,7 +571,6 @@
     "Areas/Consultations/May London trip.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "Areas/Jeff Rowland/Catch ups.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
