@@ -8,3 +8,4 @@
 - How firm is 20% profit and can that be renegotiated eg, in exchange for facilitating financing or similar benefit? 
 - Who is reponsible for renegotiating the COGS methodology (worksheet)? BD or Access?
 - 2.3 Is the 125% over COGS the agreed margin? Is this typical?
+- What is the timing of IPE (consulting) work? Would it be possible to have a conversation/ send qustions to them? 
