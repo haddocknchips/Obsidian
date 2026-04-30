@@ -48,4 +48,4 @@
 - Hybrid fund/ SPV
 	- What can be built out from [[SPV-fundbased pull hybrid|this]]?
 - Per Yann, other ideas discussed without being explored
-	-  
+	- Impact bonds, blended finance 
