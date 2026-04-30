@@ -320,6 +320,54 @@
             }
           },
           {
+            "id": "c27573ed1a02ab7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What are we solving?"
+            }
+          },
+          {
+            "id": "e6a718b2d41022bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Meeting notes/Agenda for meeting with Yann, Jeff - 30 Apr.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Agenda for meeting with Yann, Jeff - 30 Apr"
+            }
+          },
+          {
             "id": "84b6aed6df4c4f4e",
             "type": "leaf",
             "state": {
@@ -368,7 +416,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -425,8 +473,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -543,24 +590,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "4048bba1e5921ee0",
+  "active": "e6a718b2d41022bb",
   "lastOpenFiles": [
-    "Rene.md",
-    "Resources/Cefiderocol COGS + questions.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "Resources/Meeting notes/Agenda for meeting with Yann, Jeff - 30 Apr.md",
+    "Rene.md",
+    "Resources/5x5 Progress Report - Jan 2026.md",
+    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+    "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
+    "Areas/Consultations/Financial counterparts.md",
+    "Resources/Cefiderocol COGS + questions.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Areas/Consultations/GARDP.md",
-    "Areas/Consultations/Financial counterparts.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Areas/Consultations/April Geneva trip.md",
     "GARDP-MedAccess concept note for Sida v3.md",
     "Resources/GARDP 2027-31 strategy.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Access thoughts and parmeters.md",
     "Follow-up questions for Yann.md",
     "Resources/Royalties for MT discussion - May 2026.md",
-    "Resources/5x5 Progress Report - Jan 2026.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
     "Untitled 3.md",
@@ -568,9 +619,6 @@
     "Resources/Meeting notes/Regina intro meeting 20260420.md",
     "Resources/Meeting notes/Clara intro meeting 2026-04-09.md",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
-    "Areas/Consultations/May London trip.md",
-    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
-    "Areas/Jeff Rowland/Catch ups.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
@@ -579,7 +627,6 @@
     "Areas/Paolo Sison LLC",
     "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
     "~$20200331_GARDP_Summary deck.pptx",
-    "20200331_GARDP_Summary deck.pptx",
-    "Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP Resources/Docs rom Yann 2026-04-09"
+    "20200331_GARDP_Summary deck.pptx"
   ]
 }

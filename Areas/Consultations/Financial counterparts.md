@@ -3,7 +3,7 @@
 - MedAccess
 - DFC
 - BII
-- IFC
+- IFC: Zeynep Kantur Ozenci, Global Head of Health and Education, zkantur@ifc.org
 - [[EIB]]
 - Proparco
 
