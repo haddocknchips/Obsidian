@@ -1,5 +1,5 @@
 See [[Questions#Financial strategy]]
-Compare and potentially consolidate with [[For consideration - SPV -- FUND‑BASED PULL HYBRID MENU]]
+Compare and potentially consolidate with [[For consideration - SPV -- FUND‑BASED PULL HYBRID MENU]] and [SPV-fundbased pull hybrid](SPV-fundbased%20pull%20hybrid.md)
 
 ### Option 1: **Revolving Access Capital Facility**
 
@@ -36,3 +36,8 @@ Politically cleaner, slower to scale.
     - Regional supply security
 
 Higher complexity, but powerful if carefully framed.
+
+### Capital structure thoughts for sovereign donor capital layer
+
+- Would a zero-interest very long term eg, 50+(?! - or maybe 20) years putable sovereign loan work? Up to 50% would be invested into gov't securities (is this cyclic structure possible?) with the returns accruing to replenish the bond for repayment and the other 50% would be investibe as equity or subordinated securities
+	- One example: 2073 1.125% Treasury Gilt currently yields 5.2-5.3%, and trades at 28% of par value => 72%(?) can be invested of proceeds?

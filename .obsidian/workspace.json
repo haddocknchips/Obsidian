@@ -421,8 +421,81 @@
               "icon": "lucide-file",
               "title": "Carmen zoli catch-up - 30 Apr 2026"
             }
+          },
+          {
+            "id": "4de58b5512af62e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential SPV design options"
+            }
+          },
+          {
+            "id": "b8ac0ba7f30daeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "For consideration - SPV -- FUND‑BASED PULL HYBRID MENU"
+            }
+          },
+          {
+            "id": "275bc91fb5db6954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPV-fundbased pull hybrid.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SPV-fundbased pull hybrid"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -597,8 +670,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6a718b2d41022bb",
+  "active": "4de58b5512af62e4",
   "lastOpenFiles": [
+    "SPV-fundbased pull hybrid.md",
+    "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr.md",
     "Rene.md",
@@ -623,9 +699,6 @@
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
     "Untitled 3.md",
-    "Resources/Meeting notes/Lauren intro call - 7 Apr 2026.md",
-    "Resources/Meeting notes/Regina intro meeting 20260420.md",
-    "Resources/Meeting notes/Clara intro meeting 2026-04-09.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
