@@ -6,6 +6,7 @@
       {
         "id": "c6ffe26fdcd98168",
         "type": "tabs",
+        "dimension": 48.67947178871548,
         "children": [
           {
             "id": "9961f5c803a815f6",
@@ -397,6 +398,7 @@
       {
         "id": "d4ec1e9c56e77946",
         "type": "tabs",
+        "dimension": 51.32052821128451,
         "children": [
           {
             "id": "d36d7073a0622d99",
@@ -493,9 +495,33 @@
               "icon": "lucide-file",
               "title": "SPV-fundbased pull hybrid"
             }
+          },
+          {
+            "id": "65b50e43ea66d691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MedAccess, Asif Ali - 5 May 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -670,11 +696,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4de58b5512af62e4",
+  "active": "65b50e43ea66d691",
   "lastOpenFiles": [
+    "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "SPV-fundbased pull hybrid.md",
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr.md",
     "Rene.md",
@@ -698,7 +725,6 @@
     "Resources/Royalties for MT discussion - May 2026.md",
     "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
     "Untitled 4.md",
-    "Untitled 3.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
