@@ -425,6 +425,30 @@
             }
           },
           {
+            "id": "c88874bfc6694309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UK Antibiotic Subscription Model"
+            }
+          },
+          {
             "id": "275bc91fb5db6954",
             "type": "leaf",
             "state": {
@@ -447,9 +471,33 @@
               "icon": "lucide-file",
               "title": "SPV-fundbased pull hybrid"
             }
+          },
+          {
+            "id": "195d20b602d3ed89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zoli financing - 12 May 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -623,10 +671,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d83c9acb7ff6324",
+  "active": "195d20b602d3ed89",
   "lastOpenFiles": [
-    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies - 16 Apr 2026.md",
+    "Projects/Zoliflodacin/Zoli COGS - 12 May 2026.md",
+    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
+    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
+    "Projects/Cefiderocol",
+    "Projects/Zoliflodacin",
+    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies - 16 Apr 2026.md",
     "SPV-fundbased pull hybrid.md",
     "Areas/Consultations/April Geneva trip consultations.md",
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026.md",
@@ -639,7 +693,6 @@
     "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
     "Areas/Consultations/Financial counterparts.md",
     "Areas/Consultations/GARDP.md",
-    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "Resources/Cefiderocol COGS + questions.md",
@@ -649,17 +702,12 @@
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
-    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "GARDP-MedAccess concept note for Sida v3.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
     "FIL-AMR v3.22.22.pdf",
     "FIL-AMR Executive Summary v3.21.22.pdf",
     "Areas/Paolo Sison LLC",
-    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
-    "~$20200331_GARDP_Summary deck.pptx",
-    "20200331_GARDP_Summary deck.pptx"
+    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx"
   ]
 }
