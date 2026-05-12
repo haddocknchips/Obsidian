@@ -345,36 +345,12 @@
             }
           },
           {
-            "id": "e6a718b2d41022bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Meeting notes/Yann, Jeff - 30 Apr.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Yann, Jeff - 30 Apr"
-            }
-          },
-          {
             "id": "84b6aed6df4c4f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rene.md",
+                "file": "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -389,7 +365,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rene"
+              "title": "Rene intro meeting - 28 Apr 2026"
             }
           }
         ],
@@ -401,7 +377,31 @@
         "dimension": 51.32052821128451,
         "children": [
           {
-            "id": "d36d7073a0622d99",
+            "id": "b8ac0ba7f30daeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Consultations/April Geneva trip consultations.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "April Geneva trip consultations"
+            }
+          },
+          {
+            "id": "7f5592f1e153b57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -422,54 +422,6 @@
               },
               "icon": "lucide-file",
               "title": "Carmen zoli catch-up - 30 Apr 2026"
-            }
-          },
-          {
-            "id": "4de58b5512af62e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Potential SPV design options"
-            }
-          },
-          {
-            "id": "b8ac0ba7f30daeda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "For consideration - SPV -- FUND‑BASED PULL HYBRID MENU"
             }
           },
           {
@@ -495,57 +447,9 @@
               "icon": "lucide-file",
               "title": "SPV-fundbased pull hybrid"
             }
-          },
-          {
-            "id": "65b50e43ea66d691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MedAccess, Asif Ali - 5 May 2026"
-            }
-          },
-          {
-            "id": "daaf14853f4c5337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Consultations/Financial counterparts.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Financial counterparts"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -719,16 +623,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "daaf14853f4c5337",
+  "active": "9d83c9acb7ff6324",
   "lastOpenFiles": [
-    "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
-    "Areas/Consultations/GARDP.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
-    "SPV-fundbased pull hybrid.md",
-    "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU.md",
+    "Resources/Meeting notes/GARDP - AMR Action Fund - CARBX potential synergies - 16 Apr 2026.md",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
-    "Resources/Meeting notes/Yann, Jeff - 30 Apr.md",
-    "Rene.md",
+    "SPV-fundbased pull hybrid.md",
+    "Areas/Consultations/April Geneva trip consultations.md",
+    "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026.md",
+    "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
+    "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
+    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
+    "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
+    "Resources/Meeting notes/Lauren intro meeting - 7 Apr 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
+    "Resources/Meeting notes/MedAccess, Asif Ali - 5 May 2026.md",
+    "Areas/Consultations/Financial counterparts.md",
+    "Areas/Consultations/GARDP.md",
+    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
     "Resources/5x5 Progress Report - Jan 2026.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "Resources/Cefiderocol COGS + questions.md",
@@ -737,17 +648,10 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
-    "Areas/Consultations/Financial counterparts.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "Areas/Consultations/April Geneva trip.md",
     "GARDP-MedAccess concept note for Sida v3.md",
-    "Resources/Access thoughts and parmeters.md",
-    "Follow-up questions for Yann.md",
-    "Resources/Royalties for MT discussion - May 2026.md",
-    "Resources/Meeting notes/Yann intro meeting 2026-04-09.md",
-    "Untitled 4.md",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",

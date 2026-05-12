@@ -34,14 +34,6 @@
       "key": "B"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -91,6 +83,14 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
