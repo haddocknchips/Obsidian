@@ -8,7 +8,9 @@
 - Basis for portfolio approach?
 - Financial modelling clarity, level of detail and standardisation (Cf. Cefiderocol COGS)
 - Healthcare/ AMR as infrastructure: see [ARMoR paper](ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf)
-	- However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. 
+	- However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. (This is also addressed in the paper.) 
+	- Applicable ecosystem includes vaccines, antibiotics, diagnostics.
+	- For vaccines (and antibiotics?) manufacturers do you need a separate balance sheet for the product lines that would be categorised as infrastructural?
 
 ### Cefiderocol
 
