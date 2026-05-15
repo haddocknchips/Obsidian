@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5a441865953e9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rene intro meeting - 28 Apr 2026"
+            }
+          },
+          {
             "id": "9b9022d1699a2961",
             "type": "leaf",
             "state": {
@@ -291,7 +315,8 @@
               "title": "Rene intro meeting - 28 Apr 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -465,12 +490,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "495972e57c990309",
+  "active": "5a441865953e9ec8",
   "lastOpenFiles": [
+    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
+    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
+    "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
+    "Resources/SECURE vison vs current state.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Areas/Consultations/April Geneva trip consultations.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
-    "Resources/SECURE vison vs current state.md",
     "Untitled.md",
     "SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
@@ -480,7 +508,6 @@
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Resources/Cefiderocol COGS + questions.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
-    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
     "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
     "Projects/Zoliflodacin/Zoli COGS - 12 May 2026.md",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
@@ -491,10 +518,8 @@
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026.md",
     "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
-    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
     "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
     "Resources/Meeting notes/Lauren intro meeting - 7 Apr 2026.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
     "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
