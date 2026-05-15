@@ -1,4 +1,4 @@
-## Executive summary – SECURE financing model
+### Executive summary – SECURE financing model
 
 ### Purpose
 
