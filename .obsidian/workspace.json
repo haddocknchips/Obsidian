@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "5a441865953e9ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rene intro meeting - 28 Apr 2026"
-            }
-          },
-          {
             "id": "9b9022d1699a2961",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Untitled"
+            }
+          },
+          {
+            "id": "30b8dfceccc883be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential solutions"
             }
           },
           {
@@ -316,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -490,20 +490,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a441865953e9ec8",
+  "active": "30b8dfceccc883be",
   "lastOpenFiles": [
-    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
+    "Untitled.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
     "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
+    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
     "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
     "Resources/SECURE vison vs current state.md",
     "Projects/Inception report/Content to consider including in report.md",
     "Areas/Consultations/April Geneva trip consultations.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
-    "Untitled.md",
     "SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
     "Areas/Jeff Rowland/Catch ups.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/GARDP 2027-31 strategy.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Resources/Cefiderocol COGS + questions.md",
@@ -519,14 +520,12 @@
     "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
     "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
-    "Resources/Meeting notes/Lauren intro meeting - 7 Apr 2026.md",
     "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "FIL-AMR Executive Summary v3.21.22 1.pdf",
     "FIL-AMR v3.22.22.pdf",
     "FIL-AMR Executive Summary v3.21.22.pdf",
-    "Areas/Paolo Sison LLC",
-    "APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx"
+    "Areas/Paolo Sison LLC"
   ]
 }

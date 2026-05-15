@@ -7,6 +7,8 @@
 	- How do you generate revenues from low usage because of better stewardship, better health outcomes, etc?
 - Basis for portfolio approach?
 - Financial modelling clarity, level of detail and standardisation (Cf. Cefiderocol COGS)
+- Healthcare/ AMR as infrastructure: see [ARMoR paper](ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf)
+	- However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. 
 
 ### Cefiderocol
 
@@ -23,7 +25,8 @@
 	- 1. Funding mechanism to APSL
 	- 2. Funding mechanism to DrL to use DrL as MAH subcontractor
 	- 3. Loan to DrL
-- COGs reduction from current c.[[Yann intro meeting - 9 Apr 2026#^57b98a|$40]] to target $10-20, and eventually $5-10 in 2030/31 => any value in a frontoading/ IFFIm-like mechanism? Some credit enhancement backed by a sovereign funded by a philanthrophy?  
+- COGs reduction from current c.[[Yann intro meeting - 9 Apr 2026#^57b98a|$40]] to target $10-20, and eventually $5-10 in 2030/31 => any value in a frontoading/ IFFIm-like mechanism? Some credit enhancement backed by a sovereign funded by a philanthrophy?
+- Cash/ financing arrangements for treatment. See [Rahul zoli idea - 15 May 2026](Rahul%20zoli%20idea%20-%2015%20May%202026.md)
 
 ### Strategy / financial sustainability
 
