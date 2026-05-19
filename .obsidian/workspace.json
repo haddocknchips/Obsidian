@@ -61,6 +61,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Areas/Jeff Rowland/Catch ups.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Catch ups"
+            }
+          },
+          {
+            "id": "2373ef938cf0e91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
                 "mode": "source",
                 "source": true,
@@ -80,23 +104,51 @@
             }
           },
           {
-            "id": "0a8dc6048a2e8742",
+            "id": "f2c20c0496bc657e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Market shaping tools - 19 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Market shaping tools - 19 May 2026"
             }
           },
           {
-            "id": "0cbf40253c4a4919",
+            "id": "10e39a05a372f4f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Financial partner and counterparties/EIB.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EIB"
             }
           },
           {
@@ -316,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -490,10 +542,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "30b8dfceccc883be",
+  "active": "f2c20c0496bc657e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Areas/Jeff Rowland/Catch ups.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
+    "SPV-fundbased pull hybrid.md",
+    "Projects/Financial partner and counterparties/EIB.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Market shaping tools - 19 May 2026.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Untitled.md",
     "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
     "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
     "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
@@ -502,9 +559,6 @@
     "Projects/Inception report/Content to consider including in report.md",
     "Areas/Consultations/April Geneva trip consultations.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
-    "SPV-fundbased pull hybrid.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
-    "Areas/Jeff Rowland/Catch ups.md",
     "Resources/GARDP 2027-31 strategy.md",
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Resources/Cefiderocol COGS + questions.md",
@@ -519,7 +573,6 @@
     "Projects/Inception report/For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026.md",
     "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
-    "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
     "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "FIL-AMR v3.22.22 1.pdf",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",

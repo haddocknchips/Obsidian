@@ -53,4 +53,6 @@
 - Hybrid fund/ SPV
 	- What can be built out from [[SPV-fundbased pull hybrid|this]]?
 - Per Yann, other ideas discussed without being explored
-	- Impact bonds, blended finance 
+	- Impact bonds, blended finance
+- **Market shaping tools**
+	- See [Market shaping tools - 19 May 2026](Market%20shaping%20tools%20-%2019%20May%202026.md)
