@@ -31,6 +31,7 @@
 - GARDP–MedAccess ***concept note***: Your views on the current version of the concept note would be very helpful. While the points above are general, they are also framed with the concept note in mind. 
   - Key piece in all these are the demand signals: this
 - ***Limit to three key points per section any takeaways shared with MedAccess*** see ![](Re-%20Introduction%20to%20GARDP%20Innovative%20Finance%20consultant%20Paolo%20Sison.eml)
+-   
 
 ### Prep Agenda (reference only)
 
