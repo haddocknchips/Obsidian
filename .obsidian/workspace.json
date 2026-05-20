@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
+                "file": "Areas/Consultations/May London trip.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +124,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MedAccess, Asif Ali meeting notes - 5 May 2026"
+              "title": "May London trip"
+            }
+          },
+          {
+            "id": "3db8ca66cad8d453",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FIL-AMR Executive Summary v3.21.22.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FIL-AMR Executive Summary v3.21.22"
             }
           },
           {
@@ -344,7 +356,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -518,8 +530,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "84b6aed6df4c4f4e",
+  "active": "c804d41770b5c195",
   "lastOpenFiles": [
+    "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
+    "FIL-AMR Executive Summary v3.21.22.pdf",
+    "Areas/Consultations/May London trip.md",
+    "Areas/Consultations/MedAccess May London meeting objectives.md",
+    "Areas/Consultations/GARDP.md",
+    "Areas/Consultations/Financial counterparts.md",
+    "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
     "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
     "Resources/Emails",
@@ -536,12 +555,9 @@
     "Untitled.md",
     "Resources/SECURE vison vs current state.md",
     "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
-    "Areas/Consultations/GARDP.md",
     "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
     "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
-    "Areas/Consultations/Financial counterparts.md",
     "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Areas/Consultations/April Geneva trip consultations.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Market shaping tools - 19 May 2026.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
@@ -550,11 +566,7 @@
     "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
     "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
     "Projects/Inception report/Content to consider including in report.md",
-    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
-    "Resources/GARDP 2027-31 strategy.md",
-    "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Projects/Cefiderocol",
-    "Projects/Zoliflodacin",
-    "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx"
+    "Projects/Zoliflodacin"
   ]
 }

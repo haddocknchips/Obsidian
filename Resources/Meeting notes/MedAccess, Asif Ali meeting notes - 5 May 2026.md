@@ -30,7 +30,7 @@
 	- Very committed to getting a deal done
 - GARDP–MedAccess ***concept note***: Your views on the current version of the concept note would be very helpful. While the points above are general, they are also framed with the concept note in mind. 
   - Key piece in all these are the demand signals: this
-- ***Limit to three key points per section any takeaways shared with MedAccess*** see ![](Re-%20Introduction%20to%20GARDP%20Innovative%20Finance%20consultant%20Paolo%20Sison.eml)
+- ***Limit to three key points per section any takeaways shared with MedAccess*** see [Email - MedAccess takeaways - 8 May 2026](Email%20-%20MedAccess%20takeaways%20-%208%20May%202026.md) 
 -   
 
 ### Prep Agenda (reference only)
