@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
+                "file": "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -340,7 +340,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MedAccess, Asif Ali meeting notes - 5 May 2026"
+              "title": "Email - MedAccess takeaways - 8 May 2026"
             }
           }
         ],
@@ -518,15 +518,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d83c9acb7ff6324",
+  "active": "84b6aed6df4c4f4e",
   "lastOpenFiles": [
-    "Resources/Emails/text.txt",
-    "Resources/Emails/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
+    "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
+    "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
     "Resources/Emails",
+    "Resources/Attachments",
+    "Resources/Attachments/Emails/text.txt",
+    "Resources/Attachments/Email attachments/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
+    "Resources/Attachments/Email attachments",
     "Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
     "Resources/Meeting notes/MedAcces 15 May.md",
     "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
-    "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
     "Projects/Financial partner and counterparties/EIB.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
@@ -552,9 +555,6 @@
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Projects/Cefiderocol",
     "Projects/Zoliflodacin",
-    "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
-    "FIL-AMR v3.22.22 1.pdf",
-    "FIL-AMR Executive Summary v3.21.22 2.pdf",
-    "FIL-AMR Executive Summary v3.21.22 1.pdf"
+    "2024.09 - MT Retreat (manufacturing) - Read-Only.pptx"
   ]
 }

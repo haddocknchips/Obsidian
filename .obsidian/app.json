@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
