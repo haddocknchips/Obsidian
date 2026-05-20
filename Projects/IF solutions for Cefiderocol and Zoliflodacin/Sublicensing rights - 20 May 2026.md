@@ -1,0 +1,3 @@
+### Jeff's note to DFC on 15 Apr 2026
+
+- On your question about whether GARDP earns income from its sublicenses, we do include modest royalty provisions in certain agreements for innovative products with intellectual property. None have yet generated royalties. As part of GARDP's long‑term sustainability approach, any future profits from sublicenses will be reinvested directly into our R&D activities. We therefore do not treat our licences as financial assets to optimise. Any revenues will remain modest, access‑linked, and fully mission‑driven, with monetisation serving only as a sustainability mechanism rather than a commercial strategy. 

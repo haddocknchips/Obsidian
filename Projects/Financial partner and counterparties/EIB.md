@@ -13,19 +13,20 @@
 - Senior Leadership
 	- Thomas Östros — Vice President, European Investment Bank
 Engaged in meetings with GARDP leadership, including Peter Beyer, Jeffrey Rowland, and Jennifer Cohn, notably around UNGA / New York meetings and discussions on potential EIB support for Orchid and AMR projects.
-Explicitly referenced in emails coordinated by René Coppens.
+	- Explicitly referenced in emails coordinated by René Coppens.
 [Re: Meetin...mas Östros | Outlook], [GARDP_UNGA...Briefing  | PowerPoint]
-Felicitas Riedl — Director, EIB
-Mentioned as accompanying Vice President Östros to GARDP‑related meetings.
+- Felicitas Riedl — Director, EIB
+	- Mentioned as accompanying Vice President Östros to GARDP‑related meetings.
 [Re: Meetin...mas Östros | Outlook]
-Operational / Investment Team (Core Contacts)
-Dana Burduja — European Investment Bank
-Primary EIB counterpart in email correspondence with René Coppens.
-Coordinated EIB participation in meetings, including NY engagements and follow‑up on Orchid.
+
+- Operational / Investment Team (Core Contacts)
+	- Dana Burduja — European Investment Bank
+		- Primary EIB counterpart in email correspondence with René Coppens.
+		- Coordinated EIB participation in meetings, including NY engagements and follow‑up on Orchid.
 [RE: GARDP...ember 2024 | Outlook], [Re: Meetin...mas Östros | Outlook]
-Cristina Niculescu — European Investment Bank
-Central contact on Cefiderocol access discussions and financing options.
-Confirmed EIB position that direct EIB lending was not feasible, but that purchase volume guarantees via MedAccess (EIB‑backed) were possible.
+	- Cristina Niculescu — European Investment Bank
+		- Central contact on Cefiderocol access discussions and financing options.
+		- Confirmed EIB position that direct EIB lending was not feasible, but that purchase volume guarantees via MedAccess (EIB‑backed) were possible **PS ToDo (May 2026): validate this position with Rafaele and see if sufficient links with MedAccess [MedAccess, Asif Ali meeting notes - 5 May 2026](MedAccess,%20Asif%20Ali%20meeting%20notes%20-%205%20May%202026.md)**
 [FW: EIB GA...ss Project | Outlook]
 Maria Lundqvist — European Investment Bank
 Included in EIB delegation lists and correspondence linked to UNGA / FP Health Forum AMR events.
