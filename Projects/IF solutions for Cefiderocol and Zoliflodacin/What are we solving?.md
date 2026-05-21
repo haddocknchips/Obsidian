@@ -11,7 +11,7 @@
 
 ### Manufacturing
 
-- [Manufacturing presentation - Sep 2024 MT retreat](2024.09%20-%20MT%20Retreat%20(manufacturing)%20-%20Read-Only.pptx)
+- [2024.09 - MT Retreat (manufacturing).pptx](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP%20Resources/BD%20from%20Yann%202026-04-09/2024.09%20-%20MT%20Retreat%20(manufacturing).pptx)
 
 ## GARDP value-theories to stress test
 
@@ -20,7 +20,8 @@
 	- Someone _wants_ to be the MAH
 	- And align MAH's incentives with public health, not volume-based sales
 - As manufacturing is Africa is a ways away [[Lauren note]], need to match plan to this phasing or to enable acceleration
-- Can pull units ***alone*** work ie, how realistic is delinking revenue from unit sales?![[20200331_gardp_summary deck.pptx]]
+- Can pull units ***alone*** work ie, how realistic is delinking revenue from unit sales?
+- [20200331_GARDP_Summary deck.pptx](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP%20Resources/BD%20from%20Yann%202026-04-09/20200331_GARDP_Summary%20deck.pptx)
 
 ## todos
 

@@ -7,8 +7,8 @@
 	- How do you generate revenues from low usage because of better stewardship, better health outcomes, etc?
 - Basis for portfolio approach?
 - Financial modelling clarity, level of detail and standardisation (Cf. Cefiderocol COGS)
-- Healthcare/ AMR as infrastructure: see [ARMoR paper](ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf)
-	- However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. (This is also addressed in the paper.) 
+- Healthcare/ AMR as infrastructure: see [ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/Non-GARDP%20resources%20and%20reference%20docs/ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf) 
+- However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. (This is also addressed in the paper.) 
 	- Applicable ecosystem includes vaccines, antibiotics, diagnostics.
 	- For vaccines (and antibiotics?) manufacturers do you need a separate balance sheet for the product lines that would be categorised as infrastructural?
 

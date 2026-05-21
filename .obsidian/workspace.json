@@ -164,6 +164,42 @@
             }
           },
           {
+            "id": "57ad0830852df3bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FIL-AMR Executive Summary v3.21.22 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FIL-AMR Executive Summary v3.21.22 2"
+            }
+          },
+          {
+            "id": "014d2455dd0761da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Milken Institute AMR Financial Innovation Lab 2021"
+            }
+          },
+          {
             "id": "269addda6f65b0a0",
             "type": "leaf",
             "state": {
@@ -308,30 +344,6 @@
             }
           },
           {
-            "id": "c27573ed1a02ab7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What are we solving?"
-            }
-          },
-          {
             "id": "84b6aed6df4c4f4e",
             "type": "leaf",
             "state": {
@@ -354,9 +366,57 @@
               "icon": "lucide-file",
               "title": "Email - MedAccess takeaways - 8 May 2026"
             }
+          },
+          {
+            "id": "6af44f1b149fef32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Cefiderocol COGS + questions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cefiderocol COGS + questions"
+            }
+          },
+          {
+            "id": "2d09970c2ed2644c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DFC - 20 May 2026"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -429,7 +489,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/GARDP 2027-31 strategy.md",
+                "file": "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,7 +499,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GARDP 2027-31 strategy"
+              "title": "Backlinks for DFC - 20 May 2026"
             }
           },
           {
@@ -510,13 +570,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -530,43 +588,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "c804d41770b5c195",
+  "active": "2d09970c2ed2644c",
   "lastOpenFiles": [
+    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
+    "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
+    "Resources/Cefiderocol COGS + questions.md",
+    "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
+    "Projects/Zoliflodacin/Zoli COGS - 12 May 2026.md",
+    "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
+    "Areas/Consultations/April Geneva trip consultations.md",
+    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
+    "Areas/Consultations/Financial counterparts.md",
+    "~$2025.09 - Strategy on Zoli (2026_2032).pptx",
+    "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
+    "~$20200331_GARDP_Summary deck.pptx",
     "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
+    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
+    "FIL-AMR Executive Summary v3.21.22 2.pdf",
+    "SPV-fundbased pull hybrid.md",
     "FIL-AMR Executive Summary v3.21.22.pdf",
     "Areas/Consultations/May London trip.md",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
     "Areas/Consultations/GARDP.md",
-    "Areas/Consultations/Financial counterparts.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
     "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
-    "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
     "Resources/Emails",
     "Resources/Attachments",
     "Resources/Attachments/Emails/text.txt",
     "Resources/Attachments/Email attachments/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
-    "Resources/Attachments/Email attachments",
-    "Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
     "Resources/Meeting notes/MedAcces 15 May.md",
     "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
     "Projects/Financial partner and counterparties/EIB.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
     "Untitled.md",
     "Resources/SECURE vison vs current state.md",
-    "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
-    "Resources/Meeting notes/Robert intro meeting - 7 Apr 2026.md",
-    "Resources/Meeting notes/Clara intro meeting - 9 Apr 2026.md",
-    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
-    "Areas/Consultations/April Geneva trip consultations.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Market shaping tools - 19 May 2026.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
-    "SPV-fundbased pull hybrid.md",
-    "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
-    "Resources/Meeting notes/Regina intro meeting - 20 Apr 2026.md",
-    "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
-    "Projects/Inception report/Content to consider including in report.md",
-    "Projects/Cefiderocol",
-    "Projects/Zoliflodacin"
+    "Areas/Jeff Rowland/Catch ups Jeff Rowland.md"
   ]
 }
