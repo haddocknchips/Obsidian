@@ -2,6 +2,7 @@
 
 - Subscription / Netflix model
 - Loan or financing facility for DRL? What would this achieve and who would guarantee repayment, GARDP?
+- Payment financing ala microfinance [Rahul zoli idea - 15 May 2026](Rahul%20zoli%20idea%20-%2015%20May%202026.md)
 
 ### GARDP did not provide grant funding
 

@@ -409,7 +409,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -424,7 +424,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EIB engagement plan - 20 May 2026"
+              "title": "Longer-term ideas for consideration - 21 May 2026"
             }
           },
           {
@@ -433,8 +433,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
-                "mode": "source",
+                "file": "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -448,11 +448,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DFC underwriting terms - 20 May 2026"
+              "title": "Zoli financing - 12 May 2026"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -525,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
+                "file": "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +535,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EIB engagement plan - 20 May 2026"
+              "title": "Backlinks for Zoli financing - 12 May 2026"
             }
           },
           {
@@ -625,15 +625,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9fc58eb5053ea17",
+  "active": "b5c5143e724e7e20",
   "lastOpenFiles": [
     "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
+    "Projects/Financial sustainability/Ideas to explore.md",
+    "Projects/Financial partner and counterparties/FAB engagement plan.md",
+    "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
     "Projects/Clarify tiered pricing/GARDP tiered pricing.md",
     "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
     "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "Resources/Meeting notes/Rahul intro meeting - 16 April 2026.md",
     "Debiopharm.md",
-    "Projects/Financial sustainability/Ideas to explore.md",
     "Resources/COGS assumptions for DFC - 21 May 2026.md",
     "Resources/Cefiderocol COGS + questions.md",
     "SPV-fundbased pull hybrid.md",
@@ -655,10 +658,7 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "~$20200331_GARDP_Summary deck.pptx",
     "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
-    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
-    "Areas/Consultations/MedAccess May London meeting objectives.md",
-    "Areas/Consultations/GARDP.md",
     "Resources/Emails",
     "Resources/Attachments",
     "Resources/Attachments/Emails/text.txt",

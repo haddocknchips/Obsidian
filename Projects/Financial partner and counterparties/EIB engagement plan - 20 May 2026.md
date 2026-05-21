@@ -21,17 +21,13 @@ Engaged in meetings with GARDP leadership, including Peter Beyer, Jeffrey Rowlan
 	- Cristina Niculescu — European Investment Bank
 		- Central contact on Cefiderocol access discussions and financing options.
 		- Confirmed EIB position that direct EIB lending was not feasible, but that purchase volume guarantees via MedAccess (EIB‑backed) were possible **PS ToDo (May 2026): validate this position with Rafaele and see if sufficient links with MedAccess [MedAccess, Asif Ali meeting notes - 5 May 2026](MedAccess,%20Asif%20Ali%20meeting%20notes%20-%205%20May%202026.md)**
-[FW: EIB GA...ss Project | Outlook]
-Maria Lundqvist — European Investment Bank
-Included in EIB delegation lists and correspondence linked to UNGA / FP Health Forum AMR events.
-[dndi-my.sh...epoint.com]
-Anna Lynch — European Investment Bank
-Copied on multiple EIB–GARDP coordination emails.
-[RE: GARDP...ember 2024 | Outlook]
-Diego Tonelli — European Investment Bank
-Included in EIB team communications related to GARDP.
-[RE: GARDP...ember 2024 | Outloķk]
-Raffaele Cordiner — European Investment Bank
-CC’d on Cefiderocol financing discussions 
+- Maria Lundqvist — European Investment Bank
+	- Included in EIB delegation lists and correspondence linked to UNGA / FP Health Forum AMR events.
+- Anna Lynch — European Investment Bank
+	- Copied on multiple EIB–GARDP coordination emails.
+- Diego Tonelli — European Investment Bank
+	- Included in EIB team communications related to GARDP.
+- Raffaele Cordiner — European Investment Bank
+	- CC’d on Cefiderocol financing discussions 
 
 - **ToDo: Check notes from Rene**
