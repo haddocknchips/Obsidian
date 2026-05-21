@@ -409,6 +409,78 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential SPV design options"
+            }
+          },
+          {
+            "id": "147e2a641efa19b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Financial sustainability/Ideas to explore.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideas to explore"
+            }
+          },
+          {
+            "id": "8ed242468213375e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Potential solutions"
+            }
+          },
+          {
+            "id": "5cd0e9315afdf69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
                 "mode": "source",
                 "source": true,
@@ -428,13 +500,13 @@
             }
           },
           {
-            "id": "b5c5143e724e7e20",
+            "id": "6880f1ea47432d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
-                "mode": "preview",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -448,11 +520,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zoli financing - 12 May 2026"
+              "title": "Sweden’s Reimbursement - Revenue Guarantee Model"
+            }
+          },
+          {
+            "id": "bafb96a6dfd00efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UK Antibiotic Subscription Model"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -525,7 +621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
+                "file": "Projects/IF solutions for Cefiderocol and Zoliflodacin/UK Antibiotic Subscription Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +631,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zoli financing - 12 May 2026"
+              "title": "Backlinks for UK Antibiotic Subscription Model"
             }
           },
           {
@@ -625,11 +721,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5c5143e724e7e20",
+  "active": "bafb96a6dfd00efe",
   "lastOpenFiles": [
-    "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Projects/Financial sustainability/Ideas to explore.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential SPV design options.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/PASTEUR Act (US).md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Market shaping tools - 19 May 2026.md",
+    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
+    "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
     "Projects/Financial partner and counterparties/FAB engagement plan.md",
     "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
     "Projects/Clarify tiered pricing/GARDP tiered pricing.md",
@@ -643,19 +745,13 @@
     "FIL-AMR Executive Summary v3.21.22.pdf",
     "Areas/Consultations/May London trip.md",
     "Ring-fenced SPV idea (revise or update title).md",
-    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
     "Projects/Zoliflodacin/Zoli COGS - 12 May 2026.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
     "Resources/Meeting notes/Yann intro meeting - 9 Apr 2026.md",
     "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
-    "Areas/Consultations/April Geneva trip consultations.md",
-    "Areas/Consultations/Financial counterparts.md",
     "~$2025.09 - Strategy on Zoli (2026_2032).pptx",
-    "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/What are we solving?.md",
     "~$20200331_GARDP_Summary deck.pptx",
     "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",

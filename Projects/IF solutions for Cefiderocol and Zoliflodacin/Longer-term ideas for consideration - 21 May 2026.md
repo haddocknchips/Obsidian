@@ -8,3 +8,5 @@
 	- [For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026](For%20consideration%20-%20SPV%20--%20FUND‑BASED%20PULL%20HYBRID%20MENU%20-%2017%20Apr%202026.md)
 - Rights monetisation:
 	- [Sublicensing rights - 20 May 2026](Sublicensing%20rights%20-%2020%20May%202026.md)
+
+***Need to clean up these spaghetti threads of related long-term fundnig strategy notes*** _Or maybe it's okay?_
