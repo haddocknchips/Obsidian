@@ -23,7 +23,7 @@
 
 ### Zoliflodacin
 
-- Current financing ideas on the table: ![[2025.09 - Strategy on Zoli (2026_2032).pptx]]
+- Current financing ideas on the table: [2025.09 - Strategy on Zoli (2026_2032).pptx](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP%20Resources/BD%20from%20Yann%202026-04-09/2025.09%20-%20Strategy%20on%20Zoli%20(2026_2032).pptx)
 	- 1. Funding mechanism to APSL
 	- 2. Funding mechanism to DrL to use DrL as MAH subcontractor
 	- 3. Loan to DrL

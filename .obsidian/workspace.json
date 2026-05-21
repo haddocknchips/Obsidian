@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ring-fenced SPV idea (revise or update title).md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ring-fenced SPV idea (revise or update title)"
             }
           },
           {
@@ -101,42 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "Sublicensing rights - 20 May 2026"
-            }
-          },
-          {
-            "id": "fa61bf4187eaf322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Consultations/May London trip.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "May London trip"
-            }
-          },
-          {
-            "id": "3db8ca66cad8d453",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "FIL-AMR Executive Summary v3.21.22.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "FIL-AMR Executive Summary v3.21.22"
             }
           },
           {
@@ -397,7 +361,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
+                "file": "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -412,11 +376,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DFC - 20 May 2026"
+              "title": "DFC underwriting terms - 20 May 2026"
+            }
+          },
+          {
+            "id": "be4d99e84ed17a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/COGS assumptions for DFC - 21 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "COGS assumptions for DFC - 21 May 2026"
+            }
+          },
+          {
+            "id": "b5c5143e724e7e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DFC underwriting terms - 20 May 2026"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -489,7 +501,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
+                "file": "Resources/COGS assumptions for DFC - 21 May 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +511,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DFC - 20 May 2026"
+              "title": "Backlinks for COGS assumptions for DFC - 21 May 2026"
             }
           },
           {
@@ -570,7 +582,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -588,18 +601,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d09970c2ed2644c",
+  "active": "be4d99e84ed17a8e",
   "lastOpenFiles": [
-    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
-    "Projects/Financial partner and counterparties/DFC - 20 May 2026.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
-    "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
+    "Resources/COGS assumptions for DFC - 21 May 2026.md",
+    "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
     "Resources/Cefiderocol COGS + questions.md",
-    "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
+    "SPV-fundbased pull hybrid.md",
+    "FIL-AMR Executive Summary v3.21.22.pdf",
+    "Areas/Consultations/May London trip.md",
+    "Ring-fenced SPV idea (revise or update title).md",
+    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
     "Projects/Zoliflodacin/Zoli COGS - 12 May 2026.md",
+    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
+    "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
+    "Resources/Meeting notes/Yann intro meeting - 9 Apr 2026.md",
+    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
+    "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
+    "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
     "Areas/Consultations/April Geneva trip consultations.md",
-    "Projects/Zoliflodacin/Zoli financing - 12 May 2026.md",
     "Areas/Consultations/Financial counterparts.md",
     "~$2025.09 - Strategy on Zoli (2026_2032).pptx",
     "Resources/Emails/Email - MedAccess takeaways - 8 May 2026.md",
@@ -608,9 +628,6 @@
     "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
-    "SPV-fundbased pull hybrid.md",
-    "FIL-AMR Executive Summary v3.21.22.pdf",
-    "Areas/Consultations/May London trip.md",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
     "Areas/Consultations/GARDP.md",
     "Areas/Consultations/Call with Victoria (MedAccess).md",
@@ -620,11 +637,6 @@
     "Resources/Attachments/Emails/text.txt",
     "Resources/Attachments/Email attachments/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
     "Resources/Meeting notes/MedAcces 15 May.md",
-    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md",
-    "Projects/Financial partner and counterparties/EIB.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
-    "Untitled.md",
-    "Resources/SECURE vison vs current state.md",
-    "Areas/Jeff Rowland/Catch ups Jeff Rowland.md"
+    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md"
   ]
 }

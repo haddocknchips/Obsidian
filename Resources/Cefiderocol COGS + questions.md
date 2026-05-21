@@ -16,4 +16,4 @@
 
 ### Minor Qs for clarification
 
-- What is PM? 
+- What is PM?
