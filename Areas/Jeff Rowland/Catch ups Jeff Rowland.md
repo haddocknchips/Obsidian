@@ -41,9 +41,9 @@ Escalate travel; can also coordinate with someone else eg, Clara if easier
 	- I'll get started on categories of market shaping tools but also don't want to duplicate what Regina is doing
 	- Any prep for MT retreat?
 - Billing update
-	- Closing out report date
-	- Will send first invoice soon
-- **Drop email where I can provide additional value**
+	- Closing out report date => _to be discussed after retreat_
+	- **Will send first invoice soon**
+- **Drop email where I can provide additional value** => _to be discussed after retreat_
 - AMR conference and Milken
 - Circle back with Anthony (DFC) based on preliminary terms of Orchid, caveated as subject to negotiation, etc.
 	- I'll run key items by Yann and Jeff

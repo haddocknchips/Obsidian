@@ -1,0 +1,1 @@
+- c/o Yann: very early days, including for royalties, see: [2024.11 - MT Royalties.pptx](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/GARDP%20Resources/BD%20from%20Yann%202026-04-09/2024.11%20-%20MT%20Royalties.pptx)

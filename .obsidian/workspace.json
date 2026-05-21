@@ -404,6 +404,30 @@
             }
           },
           {
+            "id": "f9fc58eb5053ea17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EIB engagement plan - 20 May 2026"
+            }
+          },
+          {
             "id": "b5c5143e724e7e20",
             "type": "leaf",
             "state": {
@@ -428,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -501,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/COGS assumptions for DFC - 21 May 2026.md",
+                "file": "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +535,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COGS assumptions for DFC - 21 May 2026"
+              "title": "Backlinks for EIB engagement plan - 20 May 2026"
             }
           },
           {
@@ -601,10 +625,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "be4d99e84ed17a8e",
+  "active": "f9fc58eb5053ea17",
   "lastOpenFiles": [
-    "Resources/COGS assumptions for DFC - 21 May 2026.md",
     "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
+    "Projects/Clarify tiered pricing/GARDP tiered pricing.md",
+    "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
+    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
+    "Resources/Meeting notes/Rahul intro meeting - 16 April 2026.md",
+    "Debiopharm.md",
+    "Projects/Financial sustainability/Ideas to explore.md",
+    "Resources/COGS assumptions for DFC - 21 May 2026.md",
     "Resources/Cefiderocol COGS + questions.md",
     "SPV-fundbased pull hybrid.md",
     "FIL-AMR Executive Summary v3.21.22.pdf",
@@ -615,7 +645,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Potential solutions.md",
     "Resources/Meeting notes/Rahul zoli idea - 15 May 2026.md",
     "Resources/Meeting notes/Yann intro meeting - 9 Apr 2026.md",
-    "Areas/Paolo Sison LLC/LinkedIn and key website content.md",
     "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
     "Resources/Meeting notes/Carmen zoli catch-up - 30 Apr 2026.md",
     "Resources/Meeting notes/Yann, Jeff - 30 Apr 2026.md",
@@ -630,13 +659,9 @@
     "FIL-AMR Executive Summary v3.21.22 2.pdf",
     "Areas/Consultations/MedAccess May London meeting objectives.md",
     "Areas/Consultations/GARDP.md",
-    "Areas/Consultations/Call with Victoria (MedAccess).md",
-    "Resources/Meeting notes/MedAccess, Asif Ali meeting notes - 5 May 2026.md",
     "Resources/Emails",
     "Resources/Attachments",
     "Resources/Attachments/Emails/text.txt",
-    "Resources/Attachments/Email attachments/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml",
-    "Resources/Meeting notes/MedAcces 15 May.md",
-    "Resources/Meeting notes/Rene intro meeting - 28 Apr 2026.md"
+    "Resources/Attachments/Email attachments/Re- Introduction to GARDP Innovative Finance consultant Paolo Sison.eml"
   ]
 }
