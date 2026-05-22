@@ -1,4 +1,6 @@
-See [[Questions#Financial strategy]]
+**For long-term**
+
+See [[IF design questions#Financial strategy]]
 Compare and potentially consolidate with [[For consideration - SPV -- FUND‑BASED PULL HYBRID MENU - 17 Apr 2026]] and [SPV-fundbased pull hybrid](SPV-fundbased%20pull%20hybrid.md)
 
 ### Option 1: **Revolving Access Capital Facility**

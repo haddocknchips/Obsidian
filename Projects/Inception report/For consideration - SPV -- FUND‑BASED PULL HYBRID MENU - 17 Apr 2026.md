@@ -1,5 +1,8 @@
 _(For screening under GARDP Innovative Finance work)_
 
+**Long-term solution**
+- What should GARDP be and how should it operate in the future?
+
 ## Purpose
 
 Provide **delinked or partially delinked pull incentives** for antibiotics **while solving upfront financing and access constraints** through a dedicated **vehicle (SPV / fund / facility)**.

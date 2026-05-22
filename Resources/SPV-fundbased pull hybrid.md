@@ -1,3 +1,6 @@
+**Long-term solution**
+- To be integrated with other SPV ideas and notes
+
 ## 1) What “SPV / fund‑based pull hybrids” mean in antibiotic terms (and why they matter)
 
 A **pull hybrid** (in the way your SECURE work uses the concept) is **not just one payment** (e.g., a subscription). It is a **financing vehicle**—often implementable as a “stand‑alone” structure or hosted in an existing platform—that **combines**:

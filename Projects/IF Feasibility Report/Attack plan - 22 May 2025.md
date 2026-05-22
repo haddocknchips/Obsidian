@@ -1,0 +1,5 @@
+- Review Obsidian notes for consistency and refresh
+- Categorise ideas into medium- and long-term, and prioritise
+- State decisions on working draft
+- Synthesise via M365CP
+- Review, revise, refine; be **ruthlessly critical** and cull any weak ideas and concepts 

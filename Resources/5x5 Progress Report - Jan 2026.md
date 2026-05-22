@@ -1,4 +1,4 @@
-Presentation by Manica Balasegaram
+**Online presentation by Manica Balasegaram**
 
 ### Programme updates
 

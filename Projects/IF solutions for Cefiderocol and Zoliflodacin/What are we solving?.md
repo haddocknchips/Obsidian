@@ -1,8 +1,12 @@
+**These are critical fixes to get onstream ASAP**
+
 ## Cefiderocol
 
 - Need to accelerate access in order to optimise COGs, and manage stewardship of product
 - Hospital based (vs community based for Zoli); already a $300m/ year business
 	- Issue: even if we have license, we have limited input(?) _Yann_
+- Find a way to renegotiate COGS framework and clean issues (such as double counting depreciation), improve its overall efficiency and appropriate economic returns for GARDP and Orchid
+	- Carrot to have negotiating leverage could include introducing cost-efficient financing eg, through DFC or other DFI
 
 ## Zoliflodacin
 

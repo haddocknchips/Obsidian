@@ -36,4 +36,3 @@ The UK became the **first country to implement a national delinked subscription 
 
 - Backlinking this to [Sweden’s Reimbursement - Revenue Guarantee Model](Sweden’s%20Reimbursement%20-%20Revenue%20Guarantee%20Model.md)
 - UK model could underpin **AMR financing vehicle**, with a portfolio or pool of products
-- 

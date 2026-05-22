@@ -1,6 +1,7 @@
 Prompt [Based on these is it worth also considering a... | Try in Copilot Chat](https://m365.cloud.microsoft/chat/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429/eyJpZCI6IlZYTmxjbFl4ZkdoMGRIQnpPaTh2YzNWaWMzUnlZWFJsTFdsdWRDNXZabVpwWTJVdVkyOXRMM3hQU1VRNk56azBaVEV5TUdNdE5XVmpPQzAwWlRKakxUZzNNRFl0T1RBMk5tTTBabVV6WlRBNWZEazVORFUxWkRoa0xUa3dOR010TkdFMk55MDVZakl5TFdRek9EaGlPVEEyTjJZd1pud3lNREkyTFRBMExURTJWREUyT2pRMk9qRTBMalV3TXpjNE9ESmEiLCJzY2VuYXJpbyI6InNoYXJlTGlua1ZpYVJpY2hDb3B5IiwicHJvcGVydGllcyI6eyJwcm9tcHRTb3VyY2UiOiJ1c2VyIiwiY2xpY2tUaW1lc3RhbXAiOiIyMDI2LTA0LTE2VDE2OjQ2OjE0LjQ5OFoifSwiY2hhdFR5cGUiOiJ3b3JrIiwidmVyc2lvbiI6MS4xfQ)  
 
 Based on these is it worth also considering a separate ring fenced SPV/ fund, which GARDP controls and co-invests in (not to the detriment of LMICs), in order to generate a stream of capital returns that it could reinvest into its mission?
+	- See [SPV-fundbased pull hybrid](SPV-fundbased%20pull%20hybrid.md) and similar notes
 
 Response  
 

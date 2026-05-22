@@ -7,16 +7,49 @@
 	- How do you generate revenues from low usage because of better stewardship, better health outcomes, etc?
 - Basis for portfolio approach?
 - Financial modelling clarity, level of detail and standardisation (Cf. Cefiderocol COGS)
-- Healthcare/ AMR as infrastructure: see [ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/Non-GARDP%20resources%20and%20reference%20docs/ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf) 
 - However, one would still need to price the development risk so this would require a higher rate of return than a standard utility? _Need to think about this more_. (This is also addressed in the paper.) 
 	- Applicable ecosystem includes vaccines, antibiotics, diagnostics.
 	- For vaccines (and antibiotics?) manufacturers do you need a separate balance sheet for the product lines that would be categorised as infrastructural?
+
+### Hybrid subscription model for long-term (after UK and Swedish models)
+
+**“Tiered global pull incentive”**
+
+**Layer 1 (global / donor-funded):**
+
+- UK-style **value-based subscription payments** for innovation
+
+**Layer 2 (regional / country-level):**
+
+- Sweden-style **revenue guarantees** to ensure local supply
+
+**Layer 3 (push + access):**
+
+- GARDP’s current role (clinical development + access pathways)
+
+#### Implications for Cefi and Zoli
+
+**Cefiderocol**
+
+- Already approved → focus on **access + sustainability**
+- Sweden-style:
+    - Regional revenue guarantees to ensure availability
+- Complement with:
+    - Limited subscription-style payments for **insurance value**
+
+**Zoliflodacin**
+
+- Near-market / first-line potential → **innovation + access**
+- UK-style:
+    - Value-based global subscription signal (if positioned as high-value)
+- Sweden-style:
+    - Early-stage revenue guarantees in key markets
 
 ### Cefiderocol
 
 - Yann: GARDP was "open to investing" but tax issue. _What is the issue?_ Is this an area that could be looked at again eg, thorugh an SPV or ring-fenced balance sheet, perhaps managed like a fund? 
 - Yann: is an Advance Purchase Commitment or some other pull mechanism viable? 
-- PS: What if a better solution is ***certainty of revenue*** instead of a [[Cefi concept note - GARDP, MedAccess, Sida|volume guarantee]]?
+- PS: What if a better solution is ***certainty of revenue*** instead of a [[Cefi concept note (v1 or 2) - GARDP, MedAccess, Sida - 13 Apr 2026|volume guarantee]]?
 - APA as preferred procurement mechanism for commercial batches _to derisk manufacturing of validation batches_ ![[APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx]] 
 	- Who is responsible for execution?
 - COGs transaparency and accuracy: is there a widely-accepted third party that can conduct this? [[rahul notes]]
@@ -56,3 +89,7 @@
 	- Impact bonds, blended finance
 - **Market shaping tools**
 	- See [Market shaping tools - 19 May 2026](Market%20shaping%20tools%20-%2019%20May%202026.md)
+
+### Policy dialogues and advocacy potential topics
+
+- Healthcare/ AMR as infrastructure: see [ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf](file:///Users/paolo/Library/CloudStorage/OneDrive-PaoloSisonLLC/GARDP/Non-GARDP%20resources%20and%20reference%20docs/ARMoR_Souza_McKinney_2026%20How%20can%20we%20invest%20in%20healthcare%20as%20infrastructure%20(1).pdf) 

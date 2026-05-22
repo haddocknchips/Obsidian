@@ -84,4 +84,4 @@ Follow-up tasks:
 ### Follow-up questions for Yann
 
 - See above
-- How transparant is Orchid with its COGs ie, for the proposed [[Cefi concept note - GARDP, MedAccess, Sida#Appendix 1 (Activities & Outputs)|MedAccess project with Sida]]?
+- How transparant is Orchid with its COGs ie, for the proposed [[Cefi concept note (v1 or 2) - GARDP, MedAccess, Sida - 13 Apr 2026#Appendix 1 (Activities & Outputs)|MedAccess project with Sida]]?
