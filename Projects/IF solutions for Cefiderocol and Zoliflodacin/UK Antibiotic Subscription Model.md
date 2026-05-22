@@ -1,6 +1,7 @@
 ### What it is
 
 The UK became the **first country to implement a national delinked subscription model**, following pilots launched in **2022** and scaled nationally from **2024**. [[nice.org.uk]](https://www.nice.org.uk/what-nice-does/life-sciences-how-to-get-your-product-to-market/a-new-model-for-evaluating-and-purchasing-antimicrobials-in-the-uk), [[pharmaceut...ournal.com]](https://pharmaceutical-journal.com/article/feature/everything-you-need-to-know-about-the-nhs-antimicrobial-resistance-subscription-model)
+- Helpul intro c/o ARMoR: https://www.armoramr.org/post/introduction-to-the-uk-antimicrobial-subscription-model 
 
 ### Core features
 
