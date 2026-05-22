@@ -27,3 +27,13 @@ The UK became the **first country to implement a national delinked subscription 
 - Per ABPI, [relies on other countries to co‑invest](https://www.abpi.org.uk/media/news/2023/november/uk-antibiotic-subscription-model-key-to-supporting-antibiotic-investment/); see analysis of the Office of Health economics [here](https://www.ohe.org/publications/novel-uk-antimicrobial-subscription-model-investor-perspective/) and interviews with investors; requires collaborative effort involving the EU and US to establish the minium level of incentive. Investors also suggested that combining various types of incentives would be the most powerful way to boost investmentjj 
 
 **Bottom line:** A **credible, operational pull mechanism**, but best viewed as a **component of a global basket**, not a standalone solution.
+
+### vs Swedish model
+
+- While both result in similar economic outcomes, they have different focuses. The UK is focused on revenue certainty (independent of volume) while Sweden is focused on supply security (availability in low demand markets) and is partially delinked from a full subscription model
+
+### Synthesis
+
+- Backlinking this to [Sweden’s Reimbursement - Revenue Guarantee Model](Sweden’s%20Reimbursement%20-%20Revenue%20Guarantee%20Model.md)
+- UK model could underpin **AMR financing vehicle**, with a portfolio or pool of products
+- 
