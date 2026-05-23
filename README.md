@@ -28,3 +28,4 @@ Relationship with vimwiki:
 Only promote ideas ***worth keeping***
 
 Sync: GitHub only
+2026-05-23: now also syncing on OneDrive but **not** making edits to OneDrive copies, **only edit the original Obsidian files**
