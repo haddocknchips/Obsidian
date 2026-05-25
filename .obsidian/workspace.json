@@ -565,7 +565,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Financial partner and counterparties/Research and to check out.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -580,7 +580,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Research and to check out"
             }
           }
         ],
@@ -657,7 +657,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Financial partner and counterparties/Research and to check out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -667,7 +667,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Research and to check out"
             }
           },
           {
@@ -676,12 +676,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Financial partner and counterparties/Research and to check out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Research and to check out"
             }
           },
           {
@@ -719,13 +719,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Projects/Financial partner and counterparties/Research and to check out.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Research and to check out"
             }
           },
           {
@@ -759,6 +759,8 @@
   },
   "active": "e0a5a8e088e7d047",
   "lastOpenFiles": [
+    "README.md",
+    "Projects/Financial partner and counterparties/Research and to check out.md",
     "Resources/Meeting notes/Peter intro call - 8 Apr 2026.md",
     "Resources/Meeting notes/202604081000_PeterBeyer_intro_call.md",
     "Areas/Consultations/Think tanks, thought leaders, conveners.md",
@@ -783,8 +785,6 @@
     "Projects/Financial sustainability/Ideas to explore.md",
     "Projects/Financial partner and counterparties/FAB engagement plan.md",
     "Projects/Financial partner and counterparties/EIB engagement plan - 20 May 2026.md",
-    "Projects/Financial partner and counterparties/DFC underwriting terms - 20 May 2026.md",
-    "Projects/Clarify tiered pricing/GARDP tiered pricing.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",

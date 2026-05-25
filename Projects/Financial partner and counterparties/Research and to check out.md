@@ -1,0 +1,2 @@
+- [Market Shaping Accelerator](https://www.marketshapingaccelerator.org)
+	- [AMR diagnostics](https://www.marketshapingaccelerator.org/research/a-closer-look-at-innovation-challenge-phase-ii-ideas-antimicrobial-resistance-amr-diagnostics/)
