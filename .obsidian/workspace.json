@@ -630,9 +630,33 @@
               "icon": "lucide-file",
               "title": "GARDP contract admin and billing"
             }
+          },
+          {
+            "id": "9a610edc364829bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Jeff Rowland/Phase 2 and future roles.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2 and future roles"
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -705,7 +729,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
+                "file": "Areas/Jeff Rowland/Phase 2 and future roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -715,7 +739,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GARDP contract admin and billing"
+              "title": "Backlinks for Phase 2 and future roles"
             }
           },
           {
@@ -724,12 +748,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
+                "file": "Areas/Jeff Rowland/Phase 2 and future roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GARDP contract admin and billing"
+              "title": "Outgoing links from Phase 2 and future roles"
             }
           },
           {
@@ -767,13 +791,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
+                "file": "Areas/Jeff Rowland/Phase 2 and future roles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GARDP contract admin and billing"
+              "title": "Outline of Phase 2 and future roles"
             }
           },
           {
@@ -805,10 +829,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "93e3ebdb2aac5bef",
+  "active": "9a610edc364829bb",
   "lastOpenFiles": [
-    "Resources/Relationship between innovative finance and market shaping - 29 May 2026.md",
     "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
+    "Areas/Jeff Rowland/Phase 2 and future roles.md",
+    "Resources/Relationship between innovative finance and market shaping - 29 May 2026.md",
     "Projects/Financial sustainability/My draft Recommendations section - 25 May 2026.md",
     "Projects/Financial partner and counterparties/Research and to check out.md",
     "README.md",
@@ -832,7 +857,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/IF design questions.md",
     "Projects/IF Feasibility Report/Attack plan - 22 May 2025.md",
-    "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",
