@@ -19,4 +19,5 @@
 	- Others? EBRD (Rem: get in touch with Jelena)
 	- Resource for incorporating IF element in donor engagement, especially with UK, Gates, others where relevant
 - Project Phase 2 (Cf. TORs):
-	-  
+	- Donor validation
+	- Organisational capability
