@@ -9,4 +9,27 @@
 	- This could be complementary or have some overlap to the "new audience" the paper identified, who are exposed to these risks, without them knowing it.
 - Need to:
 	- Model risks
-	- Model   
+	- Model
+- Opens a whole new investor base and perspective on capital
+- Capital ideas:
+	- Different investor base => high credit quality
+	- Infrastructure type debt 
+	- Results-based financing
+- Maria Souza -- Harriet-Watt University, think-tank meeting space on markets
+- Panmure House => interesting group
+- Baillie Gifford
+- Milken bond structure
+- Portfolio approach across stage R&D
+- Bacteriaphage at fixed price with insurers; hub-type organisation that would hold
+- Increased AMR risk
+- Multi-year programmatic approach
+- David "pitch":
+	- Initial capital to do market access
+	- Country health systems improvement
+- GARDP engagement:
+	- Quantitative modelling and policy analysis
+	- Started with SECURE in 2024
+	- Country forecasting estimates
+	- Jen: market sizing estimates for MIC markets
+	- Demand forecasting for East Africa
+	- Policy discusisons with GARDP
