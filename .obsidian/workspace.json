@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Financial sustainability/ARMoR - AMR as infrastructure - 4 Jun 2026.md",
+                "file": "Areas/Jeff Rowland/Phase 2 and future roles.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -652,7 +652,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARMoR - AMR as infrastructure - 4 Jun 2026"
+              "title": "Phase 2 and future roles"
             }
           }
         ],
@@ -713,8 +713,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -832,8 +831,8 @@
   },
   "active": "9a610edc364829bb",
   "lastOpenFiles": [
-    "Resources/Meeting notes/Milken-AMR Quad webinar - 28 May 2026.md",
     "Projects/Financial sustainability/ARMoR - AMR as infrastructure - 4 Jun 2026.md",
+    "Resources/Meeting notes/Milken-AMR Quad webinar - 28 May 2026.md",
     "Areas/Jeff Rowland/Phase 2 and future roles.md",
     "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
     "Resources/Relationship between innovative finance and market shaping - 29 May 2026.md",

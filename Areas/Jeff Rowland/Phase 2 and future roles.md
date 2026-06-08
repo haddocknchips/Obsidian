@@ -2,7 +2,10 @@
 
 ### Notes and proposals for discussion
 
-- Project and general management: streamline fragmented discussions
+- Depth vs breadth tradeoff
+- Project and general management possibilities: 
+	- help streamline fragmented discussions?
+	- lead project management? 
 - Lead on 1-2 projects that are direct outcomes of the paper, but will need resources or support:
 	- Cefi integrated IF approach as advisor, providing inputs and integrating approaces on:
 		- Financial and cost structure analysis of COGS, tied to...
