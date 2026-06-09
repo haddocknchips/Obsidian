@@ -1,8 +1,10 @@
-**Get outcomes of MT retreat**
+**This is all pending any relevant outcomes from the GARDP management retreat**
 
 ### Notes and proposals for discussion
 
-- Depth vs breadth tradeoff
+- Depth vs breadth tradeoff:
+	- I may be more effective as an advisor, helping think through and coordinate mulitple related initiatives
+	- I'd be happy to lead on a project if needed, but that would limit my bandwidth for other things
 - Project and general management possibilities: 
 	- help streamline fragmented discussions?
 	- lead project management? 
@@ -24,3 +26,7 @@
 - Project Phase 2 (Cf. TORs):
 	- Donor validation
 	- Organisational capability
+	- IF strategy => building on actual work
+ - In parallel: advancing exploring counterparties, DFIs
+ - Contributing to financial sustainabilty thinking and formulation of long-term financial strategy (one of my first assignments when I first joined Gavi)
+ - IF strategy thinkpiece to complement GARDP strategy document (for 2027 release) as a capstone to Phase 2?
