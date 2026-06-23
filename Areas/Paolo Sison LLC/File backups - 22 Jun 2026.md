@@ -18,4 +18,5 @@ sudo apt install dropbear-initramfs cryptsetup-initramfs
 - During boot, use:
 	`ssh -p 2222 root@<ip>`
 - After boot, use:
-	`ssh -p <your-normal-port> youruser@<ip>	
+	`ssh -p <your-normal-port> youruser@<ip>
+
