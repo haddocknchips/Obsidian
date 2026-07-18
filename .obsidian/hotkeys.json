@@ -92,5 +92,14 @@
       ],
       "key": "L"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }
