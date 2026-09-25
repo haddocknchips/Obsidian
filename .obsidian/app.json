@@ -3,7 +3,7 @@
   "spellcheck": false,
   "vimMode": true,
   "autoPairBrackets": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "propertiesInDocument": "source",
   "readableLineLength": true,
   "showLineNumber": true,

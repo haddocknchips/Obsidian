@@ -205,8 +205,33 @@
               "icon": "lucide-file",
               "title": "202609172003_Pre-read_18Sep_Zoli_call_with_Yann"
             }
+          },
+          {
+            "id": "e7f36b1b2a105f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202609251301_Notes_from_Axmed_Zoli_GTM_deck"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -282,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
+                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
+                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -383,10 +407,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "caccdda5270a616e",
+  "active": "e7f36b1b2a105f51",
   "lastOpenFiles": [
-    "Projects/Zoliflodacin/202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md",
+    "Areas/Consultations/Follow-up questions for Yann.md",
+    "Resources/Distributor.md",
+    "evidence generation.md",
+    "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1 1.pptx",
+    "Resources/Debiopharm.md",
     "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
+    "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
+    "260804_Go to Market Strategy_v2_PS_annotations 2.pptx",
+    "260804_Go to Market Strategy_v2_PS_annotations 1.pptx",
+    "260804_Go to Market Strategy_v2_PS_annotations.pptx",
+    "Projects/Zoliflodacin/202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md",
     "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
@@ -406,20 +439,11 @@
     "Resources/Ring-fenced SPV idea (revise or update title).md",
     "Areas/Paolo Sison LLC/File backups - 22 Jun 2026.md",
     "Areas/Jeff Rowland/Phase 2 and future roles.md",
-    "Projects/Financial sustainability/ARMoR - AMR as infrastructure - 4 Jun 2026.md",
-    "Resources/Meeting notes/Milken-AMR Quad webinar - 28 May 2026.md",
-    "Resources/Relationship between innovative finance and market shaping - 29 May 2026.md",
-    "Projects/Financial sustainability/My draft Recommendations section - 25 May 2026.md",
-    "Projects/Financial partner and counterparties/Research and to check out.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",
     "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
     "~$2025.09 - Strategy on Zoli (2026_2032).pptx",
-    "~$20200331_GARDP_Summary deck.pptx",
-    "~$2024.09 - MT Retreat (manufacturing) - Read-Only.pptx",
-    "FIL-AMR Executive Summary v3.21.22 2.pdf",
-    "Resources/Emails",
-    "Resources/Attachments"
+    "~$20200331_GARDP_Summary deck.pptx"
   ]
 }
