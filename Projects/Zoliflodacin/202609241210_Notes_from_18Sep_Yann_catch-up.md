@@ -93,7 +93,7 @@
 - There is a risk that the IF mechanism, if decided too soon, becomes a red herring. Given the time constraint, the project can pursue this in parallel, but important to establish clear basis for IF solution before advancing. 
 - Commercialisation should begin with product-specific economics, rather than assume a common platform or financing solution.
 - Recap from [202609172003_Pre-read_18Sep_Zoli_call_with_Yann](202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md) -- My IF report recommends phasing product introduction:
-	- Phase 1: clarify the launch and revenue baseline and preserving flexibility until price-volume assumptions and partner incentives are clearer.
+	- Phase 1: clarify the launch and revenue baseline (minimum revenue assumptions), preserving flexibility until price-volume assumptions and partner incentives are clearer.
 	- Phase 2: test limited set of mechanisms
 	- Phase 3: pilot selectively: small, tied to priority settings and designed to test whether intervention improves demand visibility or early uptake.
 
