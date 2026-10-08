@@ -174,45 +174,14 @@
               "icon": "lucide-file",
               "title": "202609241210_Notes_from_18Sep_Yann_catch-up"
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "6504e45598badc10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "689d18fc5331c894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Zoliflodacin/202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202609172003_Pre-read_18Sep_Zoli_call_with_Yann"
-            }
           },
           {
-            "id": "e7f36b1b2a105f51",
+            "id": "3dda05c10bac7cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
+                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -227,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202609251301_Notes_from_Axmed_Zoli_GTM_deck"
+              "title": "202610090900_Zoli_catchup_call_YF-CA-JR-RO"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -306,9 +275,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -325,12 +294,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Financial sustainability/ARMoR - AMR as infrastructure - 4 Jun 2026.md",
+                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ARMoR - AMR as infrastructure - 4 Jun 2026"
+              "title": "Outgoing links"
             }
           },
           {
@@ -368,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
+                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -387,8 +356,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -407,9 +375,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7f36b1b2a105f51",
+  "active": "3dda05c10bac7cdf",
   "lastOpenFiles": [
     "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
+    "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
     "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
     "Resources/Debiopharm.md",
     "Areas/Consultations/Follow-up questions for Yann.md",
@@ -438,7 +407,6 @@
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
     "Resources/Ring-fenced SPV idea (revise or update title).md",
     "Areas/Paolo Sison LLC/File backups - 22 Jun 2026.md",
-    "Areas/Jeff Rowland/Phase 2 and future roles.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",
