@@ -314,7 +314,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -330,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -349,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -392,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -430,10 +431,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3dda05c10bac7cdf",
+  "active": "dd4f2ebca9e55233",
   "lastOpenFiles": [
-    "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
     "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+    "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
     "Resources/Meeting notes - Zoli project",
     "2026100900.md",
     "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
