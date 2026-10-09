@@ -1,3 +1,5 @@
+**This is the source of truth**
+
 ## Proposed agenda
 
 ### 1. Opening and purpose | 2–3 minutes
@@ -12,7 +14,10 @@
 
 **Suggested opening**
 
-> “Thank you, Yann Ferrisse, for bringing everyone together. I took your response to my note to mean that we are broadly aligned that the work should strengthen and test the wider launch and investment case, with financing, market-shaping and external partnerships considered as possible components rather than predetermined solutions. Given the limited time, the most useful outcome for me would be clarity on the decision the work should support, the baseline it can build on and the immediate next step.”
+> Thank you, Yann, for bringing everyone together. I took your response to my note to mean that we are broadly aligned that the work should strengthen and test the wider launch and investment case, with financing, market-shaping and external partnerships considered as possible components rather than predetermined solutions. Given the limited time, the most useful outcome for me would be:
+> 	clarity on the decision the work should support, 
+> 	the baseline it can build on and 
+> 	the immediate next step.
 
 If Yann Ferrisse has an agenda, follow it and use the three guardrail questions below to frame your contributions.
 
@@ -78,7 +83,7 @@ Demand visibility, price-volume economics, clinical positioning, adoption and co
 
 **Talking points**
 
-- Suggest an iterative first phase covering:
+- Suggest an iterative first phase covering (see [Possible First Phase structure, if asked](#Possible%20First%20Phase%20structure,%20if%20asked) :
     1. consolidation of the launch and access baseline;
     2. investment-case and impact development;
     3. preliminary assessment of relevant interventions and counterparties;
@@ -88,6 +93,8 @@ Demand visibility, price-volume economics, clinical positioning, adoption and co
 - Ask:
 
 > “How would Yann Ferrisse’s and Carmen Au’s team, Jeff Rowland’s team and Regina Osih’s access team envisage working together, and which aspects would you expect me to lead or support?”
+> For Regina: From an access perspective, how should we think about the initial payment segments, public and private channels, country-introduction pathway and eventual route to broader scale? And how would your team input into this initiative; what processes do you lead?
+> 	If appropriate, ask about market-shaping project  
 
 The earlier consultation record highlights complementary considerations: commercial viability and revenue predictability; practical, management-relevant solutions; access segmentation and tiered pricing; and commercial-partner incentives and GARDP’s influence over the operating model. [[DRAFT_Extr...vised.docx | Word]](https://paolosison-my.sharepoint.com/personal/paolo_sison_io/Documents/GARDP/IF%20report/DRAFT_Extracts_GARDP_consultations_20260603_v2_revised.docx)
 
@@ -135,3 +142,31 @@ Regardless of the agenda, return to:
 - Negotiation or transaction-structuring support
 
 The recommended sequencing is to strengthen early uptake and revenue visibility, test selected market-shaping approaches, and move towards pilots only where evidence and partner alignment support doing so.
+
+## Possible First Phase structure, if asked
+
+If asked for your recommendation:
+
+### A. Baseline consolidation
+
+- Agree the problem statement and decisions to support.
+- Consolidate existing launch, access, demand, pricing and commercial assumptions.
+- Identify evidence gaps and work in progress.
+
+### B. Investment-case development
+
+- Define the public-health and access proposition.
+- Establish initial economic and impact logic.
+- Clarify the potential financing or market-shaping gap.
+
+### C. Preliminary mechanism and partner assessment
+
+- Screen a limited number of intervention hypotheses against the defined problem.
+- Segment potential counterparties by role, mandate and likely proposition.
+- Identify where early external testing could add value.
+
+### D. Roadmap and engagement preparation
+
+- Define the next analytical and engagement steps.
+- Prepare materials tied to actual organisational milestones.
+- Separate initial testing from any later negotiation or structuring phase.
