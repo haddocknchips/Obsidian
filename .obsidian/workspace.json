@@ -201,6 +201,61 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "8ca81b617e6a09ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7bd15563108f5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202610090900_Zoli_catchup_call_YF-CA-JR-RO"
+            }
+          },
+          {
+            "id": "dd4f2ebca9e55233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202610091330_Zoli_scoping_proposal"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -377,8 +432,10 @@
   },
   "active": "3dda05c10bac7cdf",
   "lastOpenFiles": [
-    "2026100900.md",
+    "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
     "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+    "Resources/Meeting notes - Zoli project",
+    "2026100900.md",
     "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
     "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
     "Resources/Debiopharm.md",
@@ -406,12 +463,10 @@
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "Resources/SPV-fundbased pull hybrid.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
-    "Resources/Ring-fenced SPV idea (revise or update title).md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",
     "ARMoR_Souza_McKinney_2026 How can we invest in healthcare as infrastructure (1).pdf",
-    "~$2025.09 - Strategy on Zoli (2026_2032).pptx",
-    "~$20200331_GARDP_Summary deck.pptx"
+    "~$2025.09 - Strategy on Zoli (2026_2032).pptx"
   ]
 }
