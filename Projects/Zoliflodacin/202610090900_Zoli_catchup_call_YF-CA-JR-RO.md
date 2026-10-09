@@ -93,7 +93,6 @@ Demand visibility, price-volume economics, clinical positioning, adoption and co
 - Ask:
 
 > “How would Yann Ferrisse’s and Carmen Au’s team, Jeff Rowland’s team and Regina Osih’s access team envisage working together, and which aspects would you expect me to lead or support?”
-> For Regina: From an access perspective, how should we think about the initial payment segments, public and private channels, country-introduction pathway and eventual route to broader scale? And how would your team input into this initiative; what processes do you lead?
 > 	If appropriate, ask about market-shaping project  
 
 The earlier consultation record highlights complementary considerations: commercial viability and revenue predictability; practical, management-relevant solutions; access segmentation and tiered pricing; and commercial-partner incentives and GARDP’s influence over the operating model. [[DRAFT_Extr...vised.docx | Word]](https://paolosison-my.sharepoint.com/personal/paolo_sison_io/Documents/GARDP/IF%20report/DRAFT_Extracts_GARDP_consultations_20260603_v2_revised.docx)
