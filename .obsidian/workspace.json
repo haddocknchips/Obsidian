@@ -253,6 +253,30 @@
               "icon": "lucide-file",
               "title": "202610091330_Zoli_scoping_proposal"
             }
+          },
+          {
+            "id": "af5653e707523032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Zoliflodacin/202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration"
+            }
           }
         ],
         "currentTab": 1
@@ -314,8 +338,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "1fbd6570649ba332",
@@ -433,6 +456,7 @@
   },
   "active": "dd4f2ebca9e55233",
   "lastOpenFiles": [
+    "Projects/Zoliflodacin/202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration.md",
     "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
     "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
     "Resources/Meeting notes - Zoli project",
@@ -463,7 +487,6 @@
     "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
     "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "Resources/SPV-fundbased pull hybrid.md",
-    "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sublicensing rights - 20 May 2026.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",

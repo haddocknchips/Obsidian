@@ -41,7 +41,19 @@ Important that there is joint ownership of some of the inputs into this for coor
 
 ## Parking lot
 
-- [ ] Review against my initial set of questeions to Yann; restate what is still outstanding
+- [ ] Review against my initial set of questions to Yann; restate what is still outstanding. _Emphasise that answers to questions will help refine the proposal and make it fit better with GARDP's objectives for this project_
 - [ ] Demand validation needs to be set into this with inputs and confirmation from Yann (and Regina?)
 - [ ] Confirm Axmed's role:
 	- [ ] Deck recommends and Axmed-led operating route. Is GARDP going with this?
+- [ ] See [DRAFT Zero more extensive assignment structure](202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration.md)
+
+### M365 Prompts
+
+- Recap answers and clarifications from notes
+- Board paper objectives: need not be very specific nor have all the answers; objective is _to demonstrate a plan and obtain guidance for work through early 2027_
+
+## Questions 
+
+**In addition to previously-sent questions**
+
+- Have Dr Reddy published a business case? (As Yann said they do not need one)
