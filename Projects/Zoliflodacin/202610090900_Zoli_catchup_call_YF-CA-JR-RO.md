@@ -139,6 +139,8 @@ Regardless of the agenda, return to:
 - Detailed funder and partner mapping
 - Health-impact modelling methodology
 - Negotiation or transaction-structuring support
+- See [202610102301_Optional_items_for_separate_follow-up](202610102301_Optional_items_for_separate_follow-up.md)
+- Confirm that they are more or less okay with MVL plan as prepared by Axmed but need to confirm; also need to confirm role of Axmed _moving forward_
 
 The recommended sequencing is to strengthen early uptake and revenue visibility, test selected market-shaping approaches, and move towards pilots only where evidence and partner alignment support doing so.
 
