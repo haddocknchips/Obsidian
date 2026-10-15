@@ -6,6 +6,7 @@
       {
         "id": "c6ffe26fdcd98168",
         "type": "tabs",
+        "dimension": 24.30747922437673,
         "children": [
           {
             "id": "6880f1ea47432d53",
@@ -181,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+                "file": "Projects/Zoliflodacin - financing, market-shaping, launch/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -205,6 +206,7 @@
       {
         "id": "8ca81b617e6a09ab",
         "type": "tabs",
+        "dimension": 75.69252077562328,
         "children": [
           {
             "id": "dd4f2ebca9e55233",
@@ -260,8 +262,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
-                "mode": "source",
+                "file": "Projects/Zoliflodacin - financing, market-shaping, launch/202610151250_Launch_scenarios_from_GTM_deck.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -275,35 +277,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202610091330_Zoli_scoping_proposal"
-            }
-          },
-          {
-            "id": "5f6ee3a158c5158b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202610091330_Zoli_scoping_proposal"
+              "title": "202610151250_Launch_scenarios_from_GTM_deck"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -478,16 +456,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f6ee3a158c5158b",
+  "active": "5b091e515349c264",
   "lastOpenFiles": [
-    "Projects/Zoliflodacin/202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration.md",
-    "Projects/Zoliflodacin/202610091330_Zoli_scoping_proposal.md",
-    "Projects/Zoliflodacin/202610102301_Optional_items_for_separate_follow-up.md",
-    "Projects/Zoliflodacin/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202610091330_Zoli_scoping_proposal.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202610151250_Launch_scenarios_from_GTM_deck.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202610102026_Longer_DraftZero_Assignment_Proposal_for_consideration.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202610102301_Optional_items_for_separate_follow-up.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202610090900_Zoli_catchup_call_YF-CA-JR-RO.md",
     "Resources/Meeting notes - Zoli project",
     "2026100900.md",
-    "Projects/Zoliflodacin/202609241210_Notes_from_18Sep_Yann_catch-up.md",
-    "Projects/Zoliflodacin/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202609241210_Notes_from_18Sep_Yann_catch-up.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202609251301_Notes_from_Axmed_Zoli_GTM_deck.md",
     "Resources/Debiopharm.md",
     "Areas/Consultations/Follow-up questions for Yann.md",
     "Resources/Distributor.md",
@@ -496,7 +475,7 @@
     "260804_Go to Market Strategy_v2_PS_annotations 2.pptx",
     "260804_Go to Market Strategy_v2_PS_annotations 1.pptx",
     "260804_Go to Market Strategy_v2_PS_annotations.pptx",
-    "Projects/Zoliflodacin/202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md",
+    "Projects/Zoliflodacin - financing, market-shaping, launch/202609172003_Pre-read_18Sep_Zoli_call_with_Yann.md",
     "Areas/Paolo Sison LLC/GARDP contract admin and billing.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Sweden’s Reimbursement - Revenue Guarantee Model.md",
     "Projects/IF solutions for Cefiderocol and Zoliflodacin/Longer-term ideas for consideration - 21 May 2026.md",
@@ -510,7 +489,6 @@
     "Projects/GARDP IF project/Solutions analysis and outcomes.md",
     "Resources/GARDP 2027-31 strategy.md",
     "Areas/Jeff Rowland/Catch ups Jeff Rowland.md",
-    "Resources/Milken Institute AMR Financial Innovation Lab 2021.md",
     "~$APA for Orchid Manufactured Cefiderocol_GMPR Presentation_Dec 2025_v1.pptx",
     "Projects/IF Feasibility Report",
     "FIL-AMR Executive Summary v3.21.22.pdf",
